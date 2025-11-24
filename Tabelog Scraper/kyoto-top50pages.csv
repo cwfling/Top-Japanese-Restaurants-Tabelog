@@ -1,0 +1,1001 @@
+,Name,Rating,Reviews,Station,Address,Genre,Lunch Price,Dinner Price,URL
+0,Doujin,4.61,213,Sanjo Keihan,京都府京都市左京区仁王門通新柳馬場東入ル菊鉾町291-1,Japanese Cuisine,-,"JPY 50,000～JPY 59,999",https://tabelog.com/en/kyoto/A2601/A260301/26030764/
+1,Iida,4.58,200,Kyoto Shiyakusho Mae,京都府京都市中京区姉小路富小路西入ル南側,Japanese Cuisine,-,"JPY 50,000～JPY 59,999",https://tabelog.com/en/kyoto/A2601/A260202/26016833/
+2,Ogata,4.54,508,Shijo,京都府京都市下京区綾小路西洞院東入新釜座町726番地,Japanese Cuisine,-,-,https://tabelog.com/en/kyoto/A2601/A260201/26012136/
+3,Sottaku Tsukamoto,4.53,107,Gion Shijo,京都府京都市東山区祇園町南側570-120,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26013373/
+4,Yama Gishi,4.51,561,Kyoto Kawaramachi,京都府京都市中京区富小路通六角下る骨屋之町560,Japanese Cuisine,-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260201/26026316/
+5,Ninshuu Rou,4.51,225,Kitaoji,京都府京都市北区紫竹北栗栖町2-12,Chinese,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260503/26033124/
+6,Yamaguchi,4.50,364,Gion Shijo,京都府京都市東山区祇園町南側570-185,"Italian, Innovative",-,"JPY 50,000～JPY 59,999",https://tabelog.com/en/kyoto/A2601/A260301/26018397/
+7,Miyoshi,4.46,601,Gion Shijo,京都府京都市東山区祇園町南側570-15,"Beef dishes, Japanese Cuisine",-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260301/26002222/
+8,Mita,4.45,149,Jingu Marutamachi,京都府京都市中京区寺町通竹屋町下ル久遠院前町667-1,Japanese Cuisine,-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260302/26016620/
+9,Kyotenjin Noguchi,4.43,277,Kitano Hakubaicho,京都府京都市上京区天神道上ノ下立売上ル北町573-11 1F,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260501/26018304/
+10,Nishibuchi Hanten,4.42,342,Gion Shijo,京都府京都市東山区上弁天町444-2,Chinese,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26022200/
+11,Kiu,4.42,187,Karasuma,京都府京都市下京区神明町230-2 2F,"Sushi, Creative","JPY 40,000～JPY 49,999","JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260201/26034605/
+12,Kiyama,4.39,458,Marutamachi,京都府京都市中京区絹屋町136 ヴェルドール御所 1F,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260202/26029017/
+13,Saika,4.39,238,Tofukuji,京都府京都市東山区泉涌寺山内町35-3,Chinese,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260304/26023771/
+14,Mizai,4.35,422,Higashiyama,京都府京都市東山区八坂鳥居前東入ル円山町613 円山公園,Japanese Cuisine,-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260301/26002279/
+15,Kawaguchi,4.34,47,-,京都府京都市,                            Japanese Cuisine                          ,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26006453/
+16,Kuishinobo Yamanaka,4.33,694,Katsura,京都府京都市西京区御陵溝浦町26-26,"Steak, Hamburger steak, Yoshoku (Japanese style western cuisine)","JPY 20,000～JPY 29,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260401/26002126/
+17,Miyama sou,4.33,185,-,京都府京都市左京区花脊原地町大悲山,                            Japanese Cuisine                          ,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260504/26001066/
+18,Sakana Ryourina Waya,4.33,156,-,京都府京丹後市弥栄町黒部2517,                            Japanese Cuisine                          ,"JPY 15,000～JPY 19,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2609/A260903/26015836/
+19,Hiro sawa,4.33,152,Karasuma,京都府京都市中京区不動町183,Chinese,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260201/26039000/
+20,Ogawa,4.32,283,Kyoto Kawaramachi,京都府京都市下京区西木屋町通四条下ル船頭町204 １F,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26013892/
+21,Mitsu Yasu,4.31,90,Nijo,京都府京都市上京区千本通丸太町上る二筋目東入,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260501/26022648/
+22,Higashiyama Yoshihisa,4.29,177,Shichijo,京都府京都市東山区妙法院前側町422,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26031203/
+23,Kodaiji Wakuden,4.28,208,Gion Shijo,京都府京都市東山区高台寺北門前鷲尾町512,Japanese Cuisine,"JPY 30,000～JPY 39,999","JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260301/26000535/
+24,Soujiki Nakahigashi,4.27,690,Mototanaka,京都府京都市左京区浄土寺石橋町32-3,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260302/26001800/
+25,Hassun,4.25,222,Gion Shijo,京都府京都市東山区祇園末吉町95,"Japanese Cuisine, Suppon (Soft-shell turtle)","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26002259/
+26,Hayashi,4.23,292,Demachiyanagi,京都府京都市上京区梶井町448-61,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260302/26000305/
+27,Suzue,4.23,180,Higashiyama,京都府京都市左京区岡崎神宮道仁王門白川南入ル,Japanese Cuisine,-,"JPY 80,000～JPY 99,999",https://tabelog.com/en/kyoto/A2601/A260301/26014309/
+28,Ifuki,4.21,218,Gion Shijo,京都府京都市東山区祇園町南側570-8,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26017706/
+29,Sasaki,4.20,409,Gion Shijo,京都府京都市東山区八坂通大和大路東入小松町566-27,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260301/26001863/
+30,Owatari,4.20,293,Gion Shijo,京都府京都市東山区祇園町南側570-265,Japanese Cuisine,-,"JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260301/26014312/
+31,Higashiyama Ogata,4.20,98,Higashiyama,京都府京都市左京区岡崎円勝寺町91-5 眞松庵 1F,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26036476/
+32,Tokuhamoto Nari,4.19,67,Kuramaguchi,京都府京都市上京区新御霊口町287-5,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260503/26040349/
+33,Chuugokusai Guu,4.19,64,Kyoto Shiyakusho Mae,京都府京都市中京区樋之口467-2,Chinese,"JPY 15,000～JPY 19,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26038550/
+34,Ryoriya Stephan Pantel,4.17,382,Marutamachi,京都府京都市中京区柳馬場通丸太町下ル四丁目182,French,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26023370/
+35,Sangen cha,4.17,341,Gion Shijo,京都府京都市東山区祇園町北側347-96,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26005351/
+36,Tagawa,4.17,169,Kyoto Shiyakusho Mae,京都府京都市中京区夷川通御幸町西入松本町575-1,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260202/26028604/
+37,Maeda,4.17,96,Gion Shijo,京都府京都市東山区祇園町南側570-118 1Ｆ,Japanese Cuisine,-,"JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260301/26020923/
+38,Kikunoi Honten Hon Ten,4.16,449,Higashiyama,京都府京都市東山区下河原通八坂鳥居前下ル下河原町459,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001346/
+39,Matayoshi,4.16,167,Gion Shijo,京都府京都市東山区祇園町南側570-123,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26006471/
+40,Muromachi Wakuden,4.15,339,Karasuma Oike,京都府京都市中京区堺町姉小路上ル丸木材木町679,"Japanese Cuisine, Crab","JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26000621/
+41,Nihon Ryourikenya,4.15,169,Jingu Marutamachi,京都府京都市左京区岡崎徳成町28-22,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260302/26035592/
+42,Higashiyama Tsukasa,4.15,115,Higashiyama,京都府京都市東山区西町127 三条白川橋ビル 2F,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26036658/
+43,shourenimmonzeki maetsukioka,4.15,61,Higashiyama,京都府京都市東山区粟田口三条坊町16-2,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26035778/
+44,Saka gawa,4.14,256,Gion Shijo,京都府京都市東山区祇園町南側570-199,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001726/
+45,Otagi,4.14,53,Kitaoji,京都府京都市北区鷹峯土天井町18,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260503/26031202/
+46,MOTOI,4.13,358,Kyoto Shiyakusho Mae,京都府京都市中京区富小路通二条下ル俵屋町186,French,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26019431/
+47,Tori Saki,4.13,285,Karasuma Oike,京都府京都市中京区押小路通室町東入蛸薬師町292-1,"Yakitori (Grilled chicken skewers), Chicken dishes, Japanese Cuisine",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26033122/
+48,Nishi,4.13,240,Gion Shijo,京都府京都市東山区月見町21-2 1F,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26027852/
+49,SEN,4.12,141,Gojo,京都府京都市下京区五条通柳馬場上ル塩竈町379,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26030495/
+50,Shimmonzen Yonemura,4.12,98,Sanjo Keihan,京都府京都市東山区新門前通花見小路東入梅本町255,"Innovative, Creative, French","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26032575/
+51,Nishikawa,4.10,471,Gion Shijo,京都府京都市東山区下河原通八坂鳥居前下る下河原町473,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26007611/
+52,Dai ichi,4.10,345,Kitano Hakubaicho,京都府京都市上京区六番町364,"Suppon (Soft-shell turtle), Japanese Cuisine, Hot Pot","JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260203/26000493/
+53,IL GARAGE,4.09,62,Karasuma Oike,京都府京都市中京区道祐町147 2F,Italian,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26031986/
+54,Kyo Seika,4.08,212,Higashiyama,京都府京都市左京区岡崎円勝寺町36-3 ２Ｆ,Chinese,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26006497/
+55,TAKAYAMA,4.08,72,Kyoto Kawaramachi,京都府京都市下京区河原町通四条下ル2稲荷町318-6 GOOD NATURE STATION 2F,"Innovative, Creative, Italian","JPY 30,000～JPY 39,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260201/26033554/
+56,Bar Rocking chair,4.07,412,Kyoto Kawaramachi,京都府京都市下京区御幸町通仏光寺下る橘町434-2,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26007698/
+57,cenci,4.06,363,Jingu Marutamachi,京都府京都市左京区聖護院円頓美町44-7,"Italian, Innovative","JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260302/26024914/
+58,RADICE,4.06,150,Marutamachi,京都府京都市中京区鏡屋町50,Italian,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26023199/
+59,Kitcho Arashiyama Arashiyama Honten,4.05,194,Arashiyama,京都府京都市右京区嵯峨天龍寺芒ノ馬場町58,Japanese Cuisine,"JPY 60,000～JPY 79,999","JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260403/26001312/
+60,ristorante nakamoto,4.05,148,Kizu,京都府木津川市木津南垣外122-1,"Italian, French, Innovative","JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2607/A260705/26018907/
+61,Endo,4.03,117,Gion Shijo,京都府京都市東山区祇園町北側347-118 楽宴小路内,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26019418/
+62,Shinya Yakiniku Daichan,4.03,31,-,京都府京都市中京区,"                            Yakiniku (BBQ Beef), Horumon (BBQ Offel)                          ",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26039693/
+63,BAR TALISKER,4.02,106,Gion Shijo,京都府京都市東山区祇園町南側570-88 祇園町南側ビル1F,Bar,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26027776/
+64,Ayano Kouji Karatsu,4.02,76,Shijo,京都府京都市下京区綾小路通新町西入ル矢田町113-1,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26029825/
+65,Uo Duya,4.01,26,Sai,京都府京都市中京区壬生東檜町8,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260401/26000319/
+66,El Tesoro,4.00,160,Gion Shijo,京都府京都市東山区大和大路新橋上がる西側 大和ビル 1F,Bar,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26004165/
+67,ORTO,3.98,584,Karasuma Oike,京都府京都市中京区衣棚通三条下ル三条町337-2,"Innovative, Italian, French",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26006883/
+68,VELROSIER,3.98,182,Kyoto Kawaramachi,京都府京都市下京区河原町通四条下ル2丁目稲荷町318-6 GOOD NATURE STATION 2F,"Chinese, Innovative, Creative","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26033284/
+69,Kichisen,3.98,159,Demachiyanagi,京都府京都市左京区下鴨森本町5,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260302/26001047/
+70,Seto,3.98,134,Ichihara,京都府京都市左京区静市市原町336,"Chicken dishes, Sukiyaki, Hot Pot","JPY 8,000～JPY 9,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260502/26005179/
+71,An kyu,3.98,113,Gion Shijo,京都府京都市東山区宮川筋3-283,Japanese Cuisine,-,"JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260301/26018405/
+72,Yamamoto Menzo,3.97,2154,Higashiyama,京都府京都市左京区岡崎南御所町34,Udon (Wheat noodles),"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26002504/
+73,Mirei,3.97,147,Marutamachi,京都府京都市中京区竹屋町通室町東入亀屋町143-2,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26027469/
+74,Lurra °,3.97,144,Higashiyama,京都府京都市東山区石泉院町396,Innovative,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26032601/
+75,Sho Getsu,3.96,622,Kitaoji,京都府京都市北区紫野上柳町6,Japanese sweets,-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260503/26001672/
+76,Hyotei Hon Ten,3.96,350,Keage,京都府京都市左京区南禅寺草川町35,Japanese Cuisine,"JPY 30,000～JPY 39,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26001012/
+77,Kawabata Douki,3.96,227,Kitayama,京都府京都市左京区下鴨南野々神町2-12,"Japanese sweets, Sweets","JPY 3,000～JPY 3,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26001766/
+78,Reshandoru,3.96,121,Karasuma,京都府京都市中京区柳馬場通六角下ル井筒屋419,French,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26001319/
+79,PTISSERIE.S salon,3.95,215,Kyoto Shiyakusho Mae,京都府京都市中京区朝倉町546 ウエルスアーリ天保 1F,"Cake, Cafe, Sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26029620/
+80,Calvador,3.95,130,Kyoto Shiyakusho Mae,京都府京都市中京区妙満寺前町446 若林ビル　２Ｆ,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26001936/
+81,Shokudou Miyazaki,3.94,209,Gion Shijo,京都府京都市下京区西木屋町通四条下ル,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26033412/
+82,Youshoku Ogata,3.93,379,Kyoto Shiyakusho Mae,京都府京都市中京区柳馬場押小路上ル等持寺町32-1,Yoshoku (Japanese style western cuisine),"JPY 2,000～JPY 2,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26026540/
+83,Noguchi Tsunagu,3.93,108,Gion Shijo,京都府京都市東山区清本町371-4,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26033325/
+84,Gibier MIYAMA,3.93,107,Gion Shijo,京都府京都市東山区祇園町北側279-3,"Wild game dishes, Italian, Innovative","JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26034466/
+85,Pathisuri Tando Resu,3.92,525,Ichijoji,京都府京都市左京区一乗寺花ノ木町21-3,"Cake, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26003706/
+86,CHIMERA,3.92,449,Gion Shijo,京都府京都市東山区祇園町南側504,Italian,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26005284/
+87,Gion Kida,3.92,92,Gion Shijo,京都府京都市東山区祇園町南側570-192,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26027783/
+88,Hitsuji,3.91,510,Marutamachi,京都府京都市中京区大炊町355-1,"Donut, Cafe","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26018786/
+89,Yosuke YAMAJI,3.91,342,Gion Shijo,京都府京都市東山区祇園町南側570-151,"French, Innovative","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26025794/
+90,Wagokoro Izumi,3.91,216,Shijo,京都府京都市下京区烏丸仏光寺東入ル一筋目南入ル匂天神町634-3,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26006071/
+91,MASHIRO,3.91,51,Karasuma Oike,京都府京都市中京区堂之前町234 OHG京都六角ビル 2F,"Innovative, French","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26039931/
+92,BAR Kingdom,3.91,36,Kyoto Kawaramachi,京都府京都市下京区富小路仏光寺下ル筋屋町151,Bar,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26035542/
+93,Saryo Hosen,3.90,1462,Matsugasaki,京都府京都市左京区下鴨西高木町25,"Sweets, Japanese sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26001872/
+94,ASSEMBLAGES KAKIMOTO,3.90,732,Jingu Marutamachi,京都府京都市中京区竹屋町通寺町西入ル松本町587-5,"Cake, Chocolate, Creative","JPY 2,000～JPY 2,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26027283/
+95,Gion Suetomo,3.90,293,Kiyomizu Gojo,京都府京都市東山区大和大路四条下ル小松町151-73,"Japanese Cuisine, Sushi","JPY 30,000～JPY 39,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26009394/
+96,Shinrin Shokudou,3.89,482,Nijo,京都府京都市中京区西ノ京内畑町24-4,Curry,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26020410/
+97,Arakawa,3.89,244,Kyoto Kawaramachi,京都府京都市中京区西木屋町通四条上る紙屋町372-4,Yakiniku (BBQ Beef),-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26006491/
+98,Kyoboshi,3.89,120,Gion Shijo,京都府京都市東山区花見小路末吉町東入ル 双葉ビル 1F,Tempura,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26006057/
+99,Hiiragiya Ryokan,3.88,84,Kyoto Shiyakusho Mae,京都府京都市中京区麩屋町姉小路上ル中白山町277,"Ryokan, Japanese Cuisine","JPY 15,000～JPY 19,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26002921/
+100,Naruya,3.88,77,Karasuma,京都府京都市中京区堺町通錦小路上ル539,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26024247/
+101,middle,3.88,27,Kitaoji,京都府京都市左京区下鴨上川原町5-3,French,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260503/26037720/
+102,Sushi Matsumoto,3.87,264,Gion Shijo,京都府京都市東山区祇園町南側570-123,Sushi,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26002579/
+103,Grill French,3.86,574,Nijojo Mae,京都府京都市中京区小川通御池上ル下古城町377,"Yoshoku (Japanese style western cuisine), Steak, Croquette","JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26000658/
+104,Onkashitsu Kasashi Oyoshiken,3.86,350,Imadegawa,京都府京都市上京区黒門通中立売上ル飛騨殿町180,Japanese sweets,-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26005963/
+105,Ikki,3.86,180,Gion Shijo,京都府京都市東山区月見町17-5,Chinese,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26023422/
+106,Kyouto Uji Kintokiya,3.86,170,Kiyomizu Gojo,京都府京都市東山区白糸町569-10,"Shaved ice (snow cone), Soft serve ice cream, Udon (Wheat noodles)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26036014/
+107,Tama kitei,3.85,963,Obaku,京都府宇治市五ケ庄平野57-14,"Bread, Sandwich","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2607/A260701/26025957/
+108,LA VOITURE,3.84,558,Jingu Marutamachi,京都府京都市左京区聖護院円頓美町47-5,"Cake, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260302/26001070/
+109,Kyoshumi Hisaiwa,3.84,165,Sanjo Keihan,京都府京都市東山区西之町213,Bento (Lunch box),"JPY 5,000～JPY 5,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26000950/
+110,Yakiniku Yamachan,3.84,158,Kyoto Kawaramachi,京都府京都市中京区蛸屋町157-11,"Yakiniku (BBQ Beef), Japanese Cuisine",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26035839/
+111,NAKATSUKA,3.84,124,Karasuma Oike,京都府京都市中京区木之下町299 Coto Glance姉小路通 1F,"French, Creative, Innovative","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26029955/
+112,Nakamura,3.84,102,Kyoto Shiyakusho Mae,京都府京都市中京区富小路御池下ル,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260202/26003637/
+113,Restaurant Koke,3.83,95,Karasuma Oike,京都府京都市中京区蛸薬師287 ido 1F,Innovative,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26035742/
+114,Demachi Futaba,3.82,2891,Demachiyanagi,京都府京都市上京区出町通今出川上ル青龍町236,"Japanese sweets, Daifuku",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26001520/
+115,PATISSERIE S,3.82,1043,Shijo,京都府京都市下京区高辻通室町西入繁昌町300-1 カノン室町四条1 階,"Cake, Macaroon","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26012808/
+116,Nikuryouri Kanae,3.81,308,Kyoto Shiyakusho Mae,京都府京都市中京区上樵木町500-5 アカーザ木屋町 1F,"Beef dishes, Creative",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26031782/
+117,Matsu,3.81,274,Matsuo Taisha,京都府京都市右京区梅津大縄場町21-26,"Tempura, Japanese Cuisine","JPY 20,000～JPY 29,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260403/26001461/
+118,Raku shaan,3.81,248,Kitaoji,京都府京都市北区紫竹下芝本町22,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26012788/
+119,Gion Maruyama,3.81,164,Gion Shijo,京都府京都市東山区祇園町南側570-171,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26001968/
+120,Kakou Okamoto,3.81,81,Kiyomizu Gojo,京都府京都市東山区常盤町470-4,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26022988/
+121,Droit,3.81,35,Jingu Marutamachi,京都府京都市上京区寺町東桜町49-1,French,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260503/26029123/
+122,Karasemi tei,3.80,338,Nijojo Mae,京都府京都市上京区下立売通大宮西入浮田町600 1F,"Tonkatsu (Pork cutlet), Yoshoku (Japanese style western cuisine), Izakaya (Tavern)","JPY 3,000～JPY 3,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260203/26030601/
+123,Kyougashitsukasa Shoujuken,3.80,197,Kiyomizu Gojo,京都府京都市東山区松原通大和大路西入弓矢町19-12,"Japanese sweets, Dorayaki",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26009387/
+124,Gion Ichidou,3.80,96,Gion Shijo,京都府京都市東山区祇園町南側589 ぎをん松本ビル1階,"Teppanyaki, Japanese Cuisine, Steak",-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26018265/
+125,Tawaraya,3.79,105,Kyoto Shiyakusho Mae,京都府京都市中京区麩屋町通姉小路上ル中白山町278,"Ryokan, Japanese Cuisine",-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260202/26002127/
+126,Ko kyu u,3.79,102,Demachiyanagi,京都府京都市上京区青龍町204,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260302/26026456/
+127,Nyu Manchou,3.79,97,Kitano Hakubaicho,京都府京都市上京区仁和寺街道千本西入五番町5,Yakiniku (BBQ Beef),-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260501/26007977/
+128,Haku zan,3.79,40,Shichijo,京都府京都市東山区今熊野北日吉町52-17,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26034676/
+129,Yukifuran Satou,3.79,32,Gion Shijo,京都府京都市東山区新橋通花見小路東入ル南側2軒目 八百平ビル 1F,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26022671/
+130,grains de vanille,3.78,791,Karasuma Oike,京都府京都市中京区間之町二条下ル鍵屋町486,"Cake, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26017389/
+131,Toku Wo,3.78,232,Kyoto Kawaramachi,京都府京都市下京区木屋町通り仏光寺上る天王町151,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26004751/
+132,Godan Miyazawa,3.78,205,Gojo,京都府京都市下京区東洞院通万寿寺上ル大江町557,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26024040/
+133,Furuta,3.78,79,Nijojo Mae,京都府京都市中京区押小路通小川西入ル古城町371,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260203/26027316/
+134,NOMI RESTAURANT,3.78,51,-,京都府福知山市三和町下川合710-3,"                            Meat dishes, Japanese Cuisine                          ","JPY 15,000～JPY 19,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2608/A260802/26037575/
+135,za ribi ngu pabi ri on by ama n,3.78,50,Kitano Hakubaicho,京都府京都市北区大北山鷲峯町1,"Restaurants, Creative, Cafe","JPY 6,000～JPY 7,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26033425/
+136,Kagizen Yoshifusa Shijo Honten,3.77,1312,Gion Shijo,京都府京都市東山区祇園町北側264,"Sweets, Japanese sweets, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26001887/
+137,Sumiyaki Sousai Toriya Hitomi,3.77,284,Sanjo Keihan,京都府京都市左京区二条通川端東入大菊町96,Yakitori (Grilled chicken skewers),-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26005610/
+138,Mishina,3.77,251,Gion Shijo,京都府京都市東山区桝屋町357,"Yoshoku (Japanese style western cuisine), Croquette","JPY 2,000～JPY 2,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26001870/
+139,Nominokoji Yamagishi,3.77,130,Kyoto Shiyakusho Mae,京都府京都市中京区下白山町293-1,Izakaya (Tavern),-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26037932/
+140,Vena,3.77,127,Marutamachi,京都府京都市中京区鏡屋町46-3,Italian,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26028480/
+141,Yakitori Kyoutotachibana,3.77,107,Kyoto Shiyakusho Mae,京都府京都市中京区押小路通御幸町西入橘町612 バインオークAiina B1F,Yakitori (Grilled chicken skewers),-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26036590/
+142,Aoike,3.77,78,Marutamachi,京都府京都市中京区竹屋町通高倉西入塀之内町631,French,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26023539/
+143,Nikuryouri Yama,3.77,26,Kyoto Kawaramachi,京都府京都市下京区足袋屋町317-13,Meat dishes,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26038998/
+144,Ajari Mochi Hompo Kyougashi Tsuka Saman Getsu Hon Ten,3.76,1003,Demachiyanagi,京都府京都市左京区鞠小路通今出川上ル,Japanese sweets,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26003917/
+145,Daigoku Den Hompo Rokaku Ten,3.76,868,Karasuma Oike,京都府京都市中京区六角通高倉東入ル南側堀之上町120,"Sweets, Japanese sweets",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26004652/
+146,Onkashitsukasa Nakamuraken,3.76,856,Katsura,京都府京都市西京区桂浅原町61,"Sweets, Japanese sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260401/26001883/
+147,Awamochi Dokoro Sawaya,3.76,853,Kitano Hakubaicho,京都府京都市上京区北野天満宮前西入紙屋川町838-7,"Japanese sweets, Sweets",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260501/26001539/
+148,Ebata,3.76,393,Kitano Hakubaicho,京都府京都市上京区六軒町通下ル長者町東側四番町148-1,"Horumon (BBQ Offel), Yakiniku (BBQ Beef)",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260501/26001035/
+149,Gion Sushi Tadayasu,3.76,215,Gion Shijo,京都府京都市東山区祇園町南側572-9,Sushi,"JPY 10,000～JPY 14,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26029012/
+150,The Common One Bar Kyoto,3.76,213,Gion Shijo,京都府京都市東山区新橋通大和大路東入元吉町46 何生館内,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26016560/
+151,Finrandhia Ba,3.76,205,Gion Shijo,京都府京都市東山区祇園町南側570-123,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26001395/
+152,Korisu,3.76,193,Kiyomizu Gojo,京都府京都市東山区松原通大和大路東入2丁目轆轤町101,Yoshoku (Japanese style western cuisine),"JPY 6,000～JPY 7,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26006119/
+153,Gion Samboa,3.76,174,Gion Shijo,京都府京都市東山区祇園町南側570-186,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26001401/
+154,Udon Endou,3.76,159,Tofukuji,京都府京都市東山区今熊野池田町4-14 レッドケンビル B1F,"Izakaya (Tavern), Seafood, Udon (Wheat noodles)",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260304/26034416/
+155,Gion Rakumi,3.76,147,Gion Shijo,京都府京都市東山区祇園南側570-206,Japanese Cuisine,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26023057/
+156,Mikuri,3.76,47,Kyoto Shiyakusho Mae,京都府京都市中京区木屋町通二条東入東生洲町38-1,"Japanese Cuisine, Wine bar",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26025729/
+157,Gosho Iwasaki,3.76,23,Marutamachi,京都府京都市中京区間之町通丸太町下ル東側大津町660,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26036676/
+158,MOT,3.76,17,Kuramaguchi,京都府京都市上京区上御霊前通烏丸東入上御霊前町409-2,Thai,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260503/26039345/
+159,Honke Daiichi Asahi Hon Ten,3.75,5035,Kyoto,京都府京都市下京区東塩小路向畑町845,"Ramen, Dumplings",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26000873/
+160,GOKKEI Ichijojihonten,3.75,2291,Ichijoji,京都府京都市左京区一乗寺西閉川原町29-7,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26017870/
+161,Oreno Ramen Appareya,3.75,1193,Yamashiro Aodani,京都府城陽市奈島下小路11,"Ramen, Tsukemen","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2607/A260704/26011617/
+162,five ran,3.75,936,Karasuma Oike,京都府京都市中京区役行者町377,"Bread, Cafe","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26026337/
+163,Flip up!,3.75,887,Karasuma Oike,京都府京都市中京区押小路通室町東入ル蛸薬師町292-2,"Bread, Bagel, Sandwich",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26004579/
+164,Taihou,3.75,801,Nijo,京都府京都市中京区西ノ京星池町149,"Sichuan Cuisine, Chinese","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260203/26003254/
+165,Housen Jei A- Shinkansen Kyoto Eki Ten,3.75,688,Kyoto,京都府京都市下京区東塩小路高倉町8-3 新幹線 JR京都駅 2F,"Sweets, Japanese sweets",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26006790/
+166,Aji Fukushima,3.75,233,Gion Shijo,京都府京都市東山区祇園町南側570,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26022527/
+167,Gion Rohan,3.75,161,Gion Shijo,京都府京都市東山区大和大路通四条上ル廿一軒町232 1F,Izakaya (Tavern),-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26021262/
+168,Gion 245,3.75,161,Sanjo Keihan,京都府京都市東山区智恩院新門前大和大路東入二丁目中之町245-1,"Italian, French, Steak",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26018705/
+169,Giom Moriwaki,3.75,108,Gion Shijo,京都府京都市東山区祇園町南側570-177,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26024436/
+170,Japanese cuisine Sakuragawa,3.75,102,Kyoto Shiyakusho Mae,京都府京都市中京区木屋町通二条下ル上樵木町491 １Ｆ,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26000659/
+171,Kentan Horibe,3.75,83,Karasuma,京都府京都市中京区錦小路通室町西入ル天神山町273,"Japanese Cuisine, Seafood, Creative","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26028283/
+172,RESTAURANT hidamarino,3.75,71,Karasuma,京都府京都市下京区高倉通四条下ル高材木町218 レックスTSUBAKIビル 1F,"French, Creative","JPY 8,000～JPY 9,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26026551/
+173,Gion Nishimura,3.75,69,Gion Shijo,京都府京都市東山区祇園町南側570-160,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001724/
+174,Kyoto Ito,3.75,53,Kyoto,京都府京都市下京区中居町112-1,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260101/26031706/
+175,Kon,3.75,42,Gion Shijo,京都府京都市東山区祇園町南側570-6,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001275/
+176,Shemoa,3.75,34,Kyoto Shiyakusho Mae,京都府京都市中京区御幸町通り御池上ル西側,"French, Wine bar",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26000799/
+177,CAINOYA,3.75,15,Myoshinji,京都府京都市右京区花園土堂町17-3,Innovative,-,-,https://tabelog.com/en/kyoto/A2601/A260402/26040164/
+178,Gion Tokuya,3.74,1501,Gion Shijo,京都府京都市東山区祇園町南側570-127,"Sweets, Japanese sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26002075/
+179,Ginjou Ramen Kubota,3.74,1339,Gojo,京都府京都市下京区西松屋町563 フジ萬ビル 1F,"Tsukemen, Ramen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26004660/
+180,Akagakiya,3.74,644,Kyoto Shiyakusho Mae,京都府京都市左京区孫橋町9,Izakaya (Tavern),-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260302/26001072/
+181,Honke Tsukimochiya Naomasa,3.74,450,Sanjo,京都府京都市中京区木屋町通三条上ル上大阪町530,Japanese sweets,～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26002393/
+182,Ookuniya Mambei,3.74,342,Karasuma,京都府京都市中京区菊屋町534,Unagi (Eel),"JPY 6,000～JPY 7,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26030320/
+183,Ogawa,3.74,316,Kitaoji,京都府京都市北区紫竹下芝本町25,Soba (Buckwheat noodles),"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26000389/
+184,Shimme,3.74,311,Kitano Hakubaicho,京都府京都市上京区千本通中立売上ル西側玉屋町38,"Izakaya (Tavern), Regional Cuisine",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260203/26002592/
+185,Bar K6,3.74,289,Kyoto Shiyakusho Mae,京都府京都市中京区二条通木屋町東入ル東生洲町481 ヴァルズビル2Ｆ,"Bar, Dining bar",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260202/26001197/
+186,IL PAPPALARDO,3.74,280,Shichijo,京都府京都市東山区妙法院前側町451-1,"Italian, Pizza, Pasta","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260304/26001638/
+187,Yakiniku Yazawa Kyouto,3.74,271,Shijo,京都府京都市下京区神明町243 雅綾小路ビル 1F,Yakiniku (BBQ Beef),"JPY 3,000～JPY 3,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26028368/
+188,PRIVATE KITCHEN SUMIYOSHI,3.74,115,Kiyomizu Gojo,京都府京都市東山区妙法院前側町420 メゾン・ナイアーデ 1F,"Chinese, Dim sum, Sichuan Cuisine","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26030839/
+189,Sumihei,3.74,112,-,京都府京丹後市丹後町間人3718,"                            Ryokan, Regional Cuisine, Seafood                          ",-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2609/A260903/26003123/
+190,Reine des pres,3.74,111,Jingu Marutamachi,京都府京都市上京区中町通丸太町下ル駒之町537-1,"French, Creative, Innovative","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260302/26021417/
+191,Ito u,3.74,91,Higashiyama,京都府京都市東山区古門前通石橋町307,French,"JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26005856/
+192,Ipantsu Xaitanaka,3.74,78,Mototanaka,京都府京都市左京区田中里ノ内町26,Chinese,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260302/26035247/
+193,Ryouriya Maekawa,3.74,74,Kiyomizu Gojo,京都府京都市下京区難波町405,"Japanese Cuisine, Creative","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26034300/
+194,Kappou Ichikawa,3.74,57,Marutamachi,京都府京都市中京区夷町572,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26030196/
+195,Giwon Fukushi,3.74,31,Gion Shijo,京都府京都市東山区祇園町南側570-120,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26030034/
+196,Menya Takakura Nijou,3.73,1412,Marutamachi,京都府京都市中京区観音町64-1,"Tsukemen, Ramen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26003182/
+197,Seaburano Kami Mibu Honten,3.73,1197,Shijo Omiya,京都府京都市中京区壬生相合町25-4 デイスターアベニュー 1Ｆ,"Ramen, Tsukemen",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26022456/
+198,Misuta Gyoza,3.73,1102,Nishioji,京都府京都市南区唐橋高田町42,"Dumplings, Ramen, Kara-age (Deep-fried chicken)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260604/26000028/
+199,Maruki Seipansho,3.73,973,Shijo Omiya,京都府京都市下京区松原通堀川西入ル,"Bread, Sandwich",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26003237/
+200,Honkaku Teuchi Udon Taiga,3.73,714,Fujinomori,京都府京都市伏見区深草西浦町7-45-1,"Udon (Wheat noodles), Curry Udon, Tempura","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260601/26020260/
+201,Sabou Isehan,3.73,615,Demachiyanagi,京都府京都市上京区青龍町242,"Sweets, Shaved ice (snow cone), Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26001023/
+202,Teuchi Soba Kanei,3.73,482,Kuramaguchi,京都府京都市北区紫野東藤ノ森町11-1,Soba (Buckwheat noodles),-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260503/26001676/
+203,Ryokujuan Shimizu,3.73,463,Demachiyanagi,京都府京都市左京区吉田泉殿町38番地の2,Japanese sweets,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26005325/
+204,en boca Kyoto,3.73,456,Karasuma Oike,京都府京都市中京区西洞院六角下ル池須町406,"Pizza, Vegetable dishes, Meat dishes","JPY 3,000～JPY 3,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26017525/
+205,Ima nishiken,3.73,425,Gojo,京都府京都市下京区烏丸五条西入ル一筋目下ル横諏訪町312,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260201/26002101/
+206,Muromachi Kaji,3.73,405,Gojo,京都府京都市下京区松原通新町東入中野之町185 1F,"Japanese Cuisine, Izakaya (Tavern)",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26018600/
+207,Kame suehiro,3.73,271,Karasuma Oike,京都府京都市中京区姉小路車屋町東入ル車屋町251,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260202/26000641/
+208,Sakaba Ikuramokuzai,3.73,232,Marutamachi,京都府京都市上京区薮之内町77-1,Stand Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26021340/
+209,Section D'or,3.73,227,Higashiyama,京都府京都市左京区岡崎西天王町84-1 M&M's APARTMENT 1F,"Indian, Indian curry, Chicken dishes","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260302/26017889/
+210,Sakedokoro Terayama,3.73,211,Kyoto Kawaramachi,京都府京都市下京区綾小路通足袋屋町317-11,"Izakaya (Tavern), Japanese Cuisine",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26032384/
+211,Mizuki Za Rittsu Karuton Kyoto,3.73,191,Kyoto Shiyakusho Mae,京都府京都市中京区鴨川二条大橋畔 ザ・リッツ・カールトン京都 B1F,"Japanese Cuisine, Sushi, Tempura","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26023295/
+212,Yoshiya,3.73,187,Sanjo,京都府京都市中京区先斗町通三条下ル材木町188,"Japanese Cuisine, Kamameshi",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26000701/
+213,Naka zen,3.73,104,Mototanaka,京都府京都市左京区北白川久保田町26,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260302/26014039/
+214,Youshokudou Suzuki,3.73,60,Nijojo Mae,京都府京都市中京区俵屋町207,"Yoshoku (Japanese style western cuisine), Croquette","JPY 1,000～JPY 1,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260203/26036338/
+215,Takamatsu,3.73,51,Shijo,京都府京都市下京区新釜座町728,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26024689/
+216,muroi,3.73,50,Kitaoji,京都府京都市北区鷹峯黒門町6,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260503/26028549/
+217,Bini,3.73,47,Marutamachi,京都府京都市中京区東洞院通丸太町下る445-1,"Italian, European, French","JPY 20,000～JPY 29,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260202/26017022/
+218,Ebisu,3.73,44,-,京都府京都市,                            Japanese Cuisine                          ,-,"JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260301/26026619/
+219,Sushi Obino,3.73,29,Kyoto Kawaramachi,京都府京都市中京区高宮町町585 若葉ビル 1F,"Sushi, Japanese Cuisine","JPY 5,000～JPY 5,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26034813/
+220,la buche,3.73,27,-,京都府京都市左京区大原来迎院町400-3,"                            French, Bistro, Wine bar                          ","JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260504/26037313/
+221,Smart Coffee,3.72,1365,Kyoto Shiyakusho Mae,京都府京都市中京区寺町通三条上ル天性寺前町537,"Traditional Café, Yoshoku (Japanese style western cuisine), Pancake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26000647/
+222,Aburimochi Honke Nemoto Kazariya,3.72,1184,Kitaoji,京都府京都市北区紫野今宮町96,"Japanese sweets, Sweets",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260503/26001670/
+223,Aitsu No Ramen Kataguruma Hon Ten,3.72,1178,Tambaguchi,京都府京都市下京区西七条西八反田町77 ガーディアン青山 1F,"Ramen, Tsukemen, Kara-age (Deep-fried chicken)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26023737/
+224,Muteppou Sohon Ten,3.72,1159,Kizu,京都府木津川市梅谷髯谷15-3,"Ramen, Dumplings",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260705/26002160/
+225,Gion Kinana Hon Ten,3.72,1023,Gion Shijo,京都府京都市東山区祇園町南側570-119,"Sweets, Gelato,Ice cream, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26002500/
+226,Kobushi Ramen,3.72,931,Umekoji Kyotonishi,京都府京都市下京区朱雀正会町1-16,"Ramen, Tsukemen, Soupless Dandan noodles",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26017616/
+227,Waruda,3.72,905,Kyoto Kawaramachi,京都府京都市中京区麩屋町六角下ル坂井町452 ハイマート・ふや町 1F,"Bread, Sandwich",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26004637/
+228,Yamazaki Men Jirou,3.72,840,Emmachi,京都府京都市中京区西ノ京北円町1-8,"Ramen, Tsukemen",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260501/26008681/
+229,Ichiwa Ichimonjiya Wasuke,3.72,822,Kitaoji,京都府京都市北区紫野今宮町69,"Japanese sweets, Sweets",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260503/26001669/
+230,Menya Sanda,3.72,734,Saiin,京都府京都市右京区西院追分町7-4,"Ramen, Tsukemen, Abura soba mixed noodle","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260401/26029285/
+231,Hiro Kawa,3.72,705,Arashiyama,京都府京都市右京区嵯峨天龍寺北造路町44-1,"Unagi (Eel), Dojo (Loach)","JPY 6,000～JPY 7,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260403/26000921/
+232,Kissa Ashijima,3.72,628,Kyoto Shiyakusho Mae,京都府京都市中京区三条通河原町東入大黒町37 文明堂ビル 5Ｆ,"Traditional Café, Cafe, Cake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26015997/
+233,ZEN CAFE,3.72,546,Gion Shijo,京都府京都市東山区祇園町南側570-210,"Cafe, Sweets, Japanese sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26021305/
+234,Hyou Tei Bekkan,3.72,450,Keage,京都府京都市左京区南禅寺草川町35,Japanese Cuisine,"JPY 6,000～JPY 7,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26016565/
+235,Tonkatsu Yamamoto,3.72,394,Kyoto Shiyakusho Mae,京都府京都市中京区新烏丸通二条上ル,"Tonkatsu (Pork cutlet), Japanese Cuisine, Yoshoku (Japanese style western cuisine)","JPY 2,000～JPY 2,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26006075/
+236,K36,3.72,380,Gion Shijo,京都府京都市東山区清水2-204-2 The Hotel Seiryu Kyoto Kiyomizu 4F,"Dining bar, Bar","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26034089/
+237,Kansen dou,3.72,253,Gion Shijo,京都府京都市東山区祇園町344-6,Japanese sweets,-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26001392/
+238,Yamashita,3.72,232,Kyoto Shiyakusho Mae,京都府京都市中京区木屋町通二条下ル上樵木町491-3,"Seafood, Japanese Cuisine","JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26001867/
+239,Tako chou,3.72,200,Gion Shijo,京都府京都市東山区宮川筋1-237,"Oden, Nihonshu (Japanese sake)",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26001610/
+240,Washoku Hourai,3.72,124,Higashiyama,京都府京都市東山区東大路通新橋上る林下町438,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26027790/
+241,Kenninji Giom Maruyama,3.72,95,Gion Shijo,京都府京都市東山区小松町566-15,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001725/
+242,Saeki,3.72,85,Marutamachi,京都府京都市中京区泉町663,Sushi,"JPY 30,000～JPY 39,999","JPY 30,000～JPY 39,999",https://tabelog.com/en/kyoto/A2601/A260201/26037187/
+243,GION MANMA,3.72,66,Gion Shijo,京都府京都市東山区祇園町北側347-108 楽宴小路内,Japanese Cuisine,"JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26030998/
+244,Juugo,3.72,51,Mototanaka,京都府京都市左京区浄土寺上南田町71-6,"Soba (Buckwheat noodles), Noodles",-,-,https://tabelog.com/en/kyoto/A2601/A260302/26028950/
+245,sokkon fujimoto,3.72,34,Kyoto Shiyakusho Mae,京都府京都市中京区榎木町92-12,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26030350/
+246,Dominique Bouchet Kyoto Le Teppanyaki,3.72,31,Keage,京都府京都市東山区粟田口華頂町1,"Teppanyaki, Steak","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26033297/
+247,Chuuka Soba Takayasu,3.71,1786,Ichijoji,京都府京都市左京区一乗寺高槻町10,"Ramen, Kara-age (Deep-fried chicken)",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26001199/
+248,Salon de the FRANCOIS,3.71,1231,Gion Shijo,京都府京都市下京区西木屋町通四条下ル,"Traditional Café, Cake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26000900/
+249,Kamo Mitara Shichaya,3.71,1078,Demachiyanagi,京都府京都市左京区下鴨松ノ木町53,"Sweets, Shaved ice (snow cone), Japanese sweets",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260503/26001758/
+250,Ino Iti,3.71,763,Kyoto Kawaramachi,京都府京都市下京区恵美須之町寺町通仏光寺下ル542,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26032368/
+251,Marie Belle Kyotohonten,3.71,733,Karasuma Oike,京都府京都市中京区柳馬場三条下ル槌屋町83番地,"Chocolate, Gelato,Ice cream, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26019937/
+252,Ramen Jirou Kyobashi Ten,3.71,588,Ichijoji,京都府京都市左京区一乗寺里ノ前町4番,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26028749/
+253,Aje Matsubara Honten,3.71,565,Kiyomizu Gojo,京都府京都市下京区西木屋町通松原上ル東側 美松会館　１Ｆ,"Horumon (BBQ Offel), Yakiniku (BBQ Beef)",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26000080/
+254,Murakami Kaishindou,3.71,564,Kyoto Shiyakusho Mae,京都府京都市中京区常盤木町62,"Sweets , Japanese sweets",-,-,https://tabelog.com/en/kyoto/A2601/A260201/26004753/
+255,ELEPHANT FACTORY COFFEE,3.71,534,Kyoto Kawaramachi,京都府京都市中京区蛸薬師通木屋町西入ル備前島町309-4 ＨＫビル　２Ｆ,Cafe,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26005522/
+256,Jukuseibuta Kawamura,3.71,526,Keihan Yamashina,京都府京都市山科区竹鼻西ノ口町57-1,Tonkatsu (Pork cutlet),"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260603/26029597/
+257,Seikou Udoku,3.71,495,Uji,京都府宇治市宇治池森20-1,"Abura soba mixed noodle, Soupless Dandan noodles",～JPY 999,-,https://tabelog.com/en/kyoto/A2607/A260701/26030760/
+258,MASH Kyoto,3.71,486,Shijo,京都府京都市下京区東洞院通高辻下る燈籠町568,"Bread, Sandwich, Sweets",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26006051/
+259,Mitsubachi,3.71,409,Demachiyanagi,京都府京都市上京区河原町今出川下ル梶井町448-60,"Sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26002128/
+260,raxamen touhichi,3.71,394,Shugakuin,京都府京都市左京区山端壱町田町8-6 京福修学院マンション 1F,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26037391/
+261,Somie'S,3.71,386,Fukuchiyama,京都府福知山市駅前町24,"Ramen, Kara-age (Deep-fried chicken), Donburi (Rice bowl)",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2608/A260802/26023025/
+262,boulangerie Artisan'Halles,3.71,385,Demachiyanagi,京都府京都市上京区今出川通寺町東入ル一真町89,"Bread, Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26020779/
+263,Choushoku Kishin,3.71,349,Gion Shijo,京都府京都市東山区小松町555 花とうろホテル祇園 1F,Restaurants,"JPY 3,000～JPY 3,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26028888/
+264,Croix Rousse,3.71,327,Shijo,京都府京都市中京区西洞院通四条上ル蟷螂山町468-4 シティファースト　 １Ｆ,"Bread, Sandwich",-,-,https://tabelog.com/en/kyoto/A2601/A260201/26007737/
+265,Murasaki No Wakuden Jei Aru Kyoto Isetan Ten,3.71,294,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 B2F,"Bento (Lunch box), Japanese sweets, Japanese Cuisine",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260101/26004937/
+266,Kuroa,3.71,291,Kitaoji,京都府京都市北区鷹峯藤林町6 長八館　１Ｆ,Bread,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26002694/
+267,Madamu Kouran,3.71,291,Jingu Marutamachi,京都府京都市中京区寺町丸太町下御霊前町631-2,"Chinese, Sichuan Cuisine, Dandan noodles","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260302/26000642/
+268,Kuchibashi Modan,3.71,251,Karasuma,京都府京都市下京区永原町153-8 メゾンマキシム 1F,"Yakitori (Grilled chicken skewers), Chicken dishes, Kushiyaki",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26022582/
+269,Nana haru,3.71,213,Sanjo,京都府京都市中京区西木屋町通六角西入ル北側 シャイン会館1F,"Izakaya (Tavern), Kushi-age (Deep-fried skewers), Japanese Cuisine",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26006925/
+270,FORNI,3.71,141,Nijojo Mae,京都府京都市中京区油⼩路通⼆条下る⼆条油⼩路町284 1F,"Italian, Pizza, Pasta","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26034900/
+271,En,3.71,138,Kyoto,京都府京都市南区東九条西山王町15-2,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26022259/
+272,Tempura Kawatatsu,3.71,111,Katsuragawa,京都府京都市南区久世川原町65,"Tempura, Japanese Cuisine","JPY 3,000～JPY 3,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260401/26004797/
+273,Pontocho Fujiwara,3.71,78,Gion Shijo,京都府京都市中京区木屋町通四条上る二丁目下樵木町204-7,"Sushi, Japanese Cuisine, Seafood","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26032207/
+274,Kyou Chuuka Makisada,3.71,64,Karasuma Oike,京都府京都市中京区高倉二条下る瓦町565-5,Chinese,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26038357/
+275,Gion Motose,3.71,62,Gion Shijo,京都府京都市東山区祇園町南側570番地6,"Japanese Cuisine, Seafood",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26006494/
+276,Hiiragi Tei,3.71,60,Higashiyama,京都府京都市東山区知恩院前石橋町306-6,"Izakaya (Tavern), Yakitori (Grilled chicken skewers), Chicken dishes",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26031016/
+277,DODICI,3.71,58,Kyoto Shiyakusho Mae,京都府京都市中京区麩屋町通御池上ル上白山町239 白山神社前,"Italian, Innovative, French","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26035328/
+278,Gion Nikuryouri Oka,3.71,45,Gion Shijo,京都府京都市東山区祇園町南側577-3,"Beef dishes, Italian, Innovative","JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26036578/
+279,Marushin Hanten,3.70,1739,Higashiyama,京都府京都市東山区東大路三条下る南西海子町431-3,"Chinese, Cafeteria, Ramen",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26002804/
+280,Guriru Kodakara,3.70,874,Higashiyama,京都府京都市左京区岡崎北御所町46,"Yoshoku (Japanese style western cuisine), Omurice (Omelette rice)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26000009/
+281,Shinjuku Menya Fuuka,3.70,843,Shijo,京都府京都市下京区三軒町551,"Ramen, Tsukemen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26000827/
+282,Yamamoto Mambo,3.70,773,Kyoto,京都府京都市下京区小稲荷町61-54,"Okonomiyaki (Japanese savory pancake), Teppanyaki","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26034294/
+283,Guriru Ando Ko-Hi Hasegawa,3.70,706,Kitaoji,京都府京都市北区小山下内河原町68,"Yoshoku (Japanese style western cuisine), Hamburger steak, Steak","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260503/26001680/
+284,Kissa Madoragu,3.70,688,Karasuma Oike,京都府京都市中京区押小路通西洞院東入ル北側,"Traditional Café, Sandwich, Yoshoku (Japanese style western cuisine)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26019438/
+285,Kyoto Wakuden,3.70,635,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 11F,Japanese Cuisine,"JPY 4,000～JPY 4,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26000863/
+286,biriyanisenmon ten india gate,3.70,443,Karasuma,京都府京都市中京区天神山町271,"Indian, Curry","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26034529/
+287,eze bleu,3.70,434,Demachiyanagi,京都府京都市上京区今出川通寺町西入大原口町212 カーサビアンカビル 1F,"Bread, Sandwich, Bagel",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26002639/
+288,Saron Do Rowaiyaru Kyobashi Ten,3.70,426,Kyoto Shiyakusho Mae,京都府京都市中京区木屋町通り御池上ル上樵木町502 1F,"Chocolate, Cafe, Cake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26021798/
+289,Nijou Wakasaya Teramachi Ten,3.70,412,Kyoto Shiyakusho Mae,京都府京都市中京区寺町通二条下ル榎木町67,"Japanese sweets, Sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26022589/
+290,Boulangerie Liberte',3.70,405,Kyoto Shiyakusho Mae,京都府京都市中京区寺町二条上る常盤木町65-2 1F,"Bread, Sandwich",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260201/26014258/
+291,Mugino Yoake,3.70,384,Tambaguchi,京都府京都市下京区西七条掛越町12-5,"Ramen, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26037048/
+292,Warajiya,3.70,338,Shichijo,京都府京都市東山区西之門町555,"Unagi (Eel), Hot Pot, Bento (Lunch box)","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260304/26000406/
+293,Radio Bagel‎,3.70,330,Kitayama,京都府京都市北区上賀茂池端町9 久世ハイツ 1F,"Bagel, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26007367/
+294,Gion Negiyaki Kana Higashi Ten,3.70,329,Gion Shijo,京都府京都市東山区東大路安井北門通月見町13,"Okonomiyaki (Japanese savory pancake), Teppanyaki","JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26000572/
+295,Suehiro,3.70,314,Kyoto Shiyakusho Mae,京都府京都市中京区寺町二条上ル要法寺前町711,"Sushi, Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26000184/
+296,Fuuka Fuchomaehonten,3.70,307,Marutamachi,京都府京都市上京区西洞院堪木町上ル東裏辻町413,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260202/26001531/
+297,Shu baku,3.70,301,Uji,京都府宇治市宇治東内13-1,Soba (Buckwheat noodles),"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2607/A260701/26004771/
+298,Bake Ya Honkan,3.70,294,Kyoto Kawaramachi,京都府京都市中京区六角通御幸町西入ル八百屋町103,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26001147/
+299,Meirin,3.70,259,Imadegawa,京都府京都市上京区黒門通元誓願寺上ル寺今町511,Chinese,"JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26005466/
+300,Kanton Sankan Houhi,3.70,234,Kitaoji,京都府京都市北区紫野下鳥田町37-1,Chinese,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26002211/
+301,Ristorante t.v.b,3.70,209,Gion Shijo,京都府京都市東山区祇園町南側570-155,"Italian, Wine bar, European","JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26004765/
+302,ki:,3.70,199,Kiyomizu Gojo,京都府京都市下京区都市町149,Middle Eastern,"JPY 3,000～JPY 3,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26035998/
+303,Giwom Morikou,3.70,188,Higashiyama,京都府京都市東山区白川筋知恩院橋上ル西側556,"Chinese, Dim sum","JPY 1,000～JPY 1,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26000584/
+304,Gion Nanba,3.70,151,Gion Shijo,京都府京都市東山区四条花見小路東入る祇園町北側279-7,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26006220/
+305,fudo,3.70,150,Kyoto Shiyakusho Mae,京都府京都市中京区御池大東町590 加納ビル B1F,"Italian, Creative, Wine bar",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26029086/
+306,KANEGURA,3.70,145,Shijo,京都府京都市下京区柳馬場通仏光寺下ル万里小路町187,"Hot Pot, Izakaya (Tavern)","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26036774/
+307,Mashita,3.70,132,Gion Shijo,京都府京都市東山区祇園町北側246,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26000265/
+308,Istanbul Saray,3.70,128,Kyoto Shiyakusho Mae,京都府京都市中京区河原町通三条上ル恵比須町534-28 松木ビル　３Ｆ,"Turkish, Asian Cuisine, Ethnic Cuisine, European","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26002357/
+309,Tachi Nomi Shapu,3.70,112,Gion Shijo,京都府京都市下京区斎藤町140-17,"Stand Bar, Seafood, Japanese Cuisine",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26034846/
+310,Nikuryouri Shibuya,3.70,110,Kyoto Shiyakusho Mae,京都府京都市中京区河原町夷川西入一筋目上ル西革堂193-1,"Beef dishes, Japanese Cuisine",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26032586/
+311,NISHI TOMIYA,3.70,101,Higashiyama,京都府京都市東山区西町126 ビスタ三条白川 1F 南側,"Baru (Spanish style bar), Dining bar, Croquette","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26036585/
+312,BAR KUGEL,3.70,91,Gion Shijo,京都府京都市東山区大和大路通四条上ル常盤町161-3,Bar,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26002072/
+313,Sumiyaki Seriu,3.70,81,Karasuma,京都府京都市中京区占出山町299 ヒラタビル 1F,"Meat dishes, Japanese Cuisine",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26029032/
+314,Ryuuhei Soba,3.70,64,Katsura,京都府京都市西京区桂浅原町157,Soba (Buckwheat noodles),"JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260401/26038921/
+315,Gion Fuji,3.70,49,Gion Shijo,京都府京都市東山区祇園町南側570-121,"Tempura, Japanese Cuisine","JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26034159/
+316,Kobe Beef Steak Moriya Gion,3.70,39,Gion Shijo,京都府京都市東山区大和大路通四条下る大和町7-1 祇園モーリヤビル,"Teppanyaki, Steak","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26030216/
+317,そ /s/ kawahigashi,3.70,39,Jingu Marutamachi,京都府京都市左京区丸太町通川端東入ル東丸太町18-5,"Japanese Cuisine, Izakaya (Tavern), Udon (Wheat noodles)",～JPY 999,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260302/26033217/
+318,estilo h,3.70,33,Marutamachi,京都府京都市中京区間之町通二条上ル夷町560-8 2F,"Spain, Creative","JPY 4,000～JPY 4,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26036568/
+319,Japanese cuisine to Nihonshu Satoshi,3.70,32,Nijojo Mae,京都府京都市中京区宮木町小川通姉小路下ル471-2,"Japanese Cuisine, Seafood","JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260203/26034412/
+320,Wajouryoumen Sugari,3.69,1554,Shijo,京都府京都市中京区観音堂町471-1,"Ramen, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26006820/
+321,SPICE CHAMBER,3.69,747,Shijo,京都府京都市下京区室町綾小路下る白楽天町502番地 福井ビル１Ｆ,"Curry, Indian curry","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26015938/
+322,Mishima Tei Honten Hon Ten,3.69,705,Kyoto Shiyakusho Mae,京都府京都市中京区寺町通三条下ル桜之町405,"Sukiyaki, Japanese Cuisine, Beef dishes","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26000646/
+323,Menya Inoichi Hanare,3.69,659,Shijo,京都府京都市下京区高辻通堺町西入泉正寺町463,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26029810/
+324,Hafuu Hon Ten,3.69,641,Kyoto Shiyakusho Mae,京都府京都市中京区麩屋町通夷川上ル笹屋町471-1,"Yoshoku (Japanese style western cuisine), Steak, Beef dishes","JPY 1,000～JPY 1,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26000943/
+325,IL GHIOTTONE Kyotohonten,3.69,594,Gion Shijo,京都府京都市東山区下河原通塔の前下ル八坂上町388-1,"Italian, Pasta, Innovative","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26001006/
+326,Tsukemen Kirari,3.69,594,Chushojima,京都府京都市伏見区東浜南町660-3,"Tsukemen, Ramen",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260601/26015996/
+327,Hinode Udon,3.69,531,Keage,京都府京都市左京区南禅寺北ノ坊町36,"Curry Udon, Udon (Wheat noodles), Soba (Buckwheat noodles)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26000815/
+328,Okonomiyaki Yoshino,3.69,441,Shichijo,京都府京都市東山区大和大路通り塩小路下ル上池田町546,"Okonomiyaki (Japanese savory pancake), Oden, Teppanyaki","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260304/26001618/
+329,Kafe Kari Renge,3.69,400,Kyoto Shiyakusho Mae,京都府京都市中京区柳馬場通姉小路上ル柳八幡町74-4,"Cafe, Curry, Cake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26004189/
+330,Soba Roujina,3.69,394,Kyoto Shiyakusho Mae,京都府京都市中京区丸屋町691,Soba (Buckwheat noodles),"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26023992/
+331,Moto Igyoza,3.69,353,Karasuma,京都府京都市中京区柳馬場錦小路下ル瀬戸屋町470-2,"Dumplings, Izakaya (Tavern)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26035067/
+332,Cucina Italiana Todo,3.69,314,Marutamachi,京都府京都市中京区東洞院通竹屋町下ル三本木五丁目496-3,"Italian, Pasta","JPY 10,000～JPY 14,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26007432/
+333,Nakagawa Komugiten,3.69,286,Mototanaka,京都府京都市左京区下鴨松ノ木町52-1,"Bread, Bagel",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26019004/
+334,kashiya,3.69,286,Sanjo Keihan,京都府京都市左京区吉永町270-3,"Cafe, Sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26024343/
+335,Chuugokushisen Ryourirakuda,3.69,273,Chayama Kyoto Geijutsudaigaku,京都府京都市左京区北白川瀬ノ内町27-4,"Sichuan Cuisine, Dandan noodles, Chinese","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260302/26001104/
+336,regal e,3.69,262,Kizu,京都府木津川市梅谷荊谷55-1,"Bread, Bagel, Sandwich",-,-,https://tabelog.com/en/kyoto/A2607/A260705/26005980/
+337,Hatsuda,3.69,180,Shugakuin,京都府京都市左京区山端柳ヶ坪町17-3,"Yakiniku (BBQ Beef), Bento (Lunch box)",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260303/26006045/
+338,Kyouto Neze,3.69,167,Sanjo,京都府京都市中京区三条木屋町上ル三軒目 三条木屋町ビルⅡ　３Ｆ,Italian,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26005142/
+339,Itosen,3.69,153,Kitano Hakubaicho,京都府京都市上京区真盛町729-16,Chinese,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260501/26000006/
+340,Onkashitsukasa Jukou,3.69,125,Kuramaguchi,京都府京都市上京区筋違橋町548-4,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26005468/
+341,Nijo Yamagishi,3.69,112,Nijo,京都府京都市中京区西ノ京職司町8-1,"Japanese Cuisine, Hot Pot",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260203/26032831/
+342,Ryouriya Otaya,3.69,93,Kyoto Kawaramachi,京都府京都市下京区天満町456-2,Japanese Cuisine,"JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26018696/
+343,Yutaka,3.69,69,Gion Shijo,京都府京都市東山区祇園町南側四条花見小路下ル四筋目東入ル,Steak,-,"JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260301/26001272/
+344,Nishi no,3.69,68,Saiin,京都府京都市右京区西院北矢掛町36-16,Yakitori (Grilled chicken skewers),-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260401/26025184/
+345,Suteki Hausu Shingo,3.69,56,Sanjo Keihan,京都府京都市東山区新門前通大和大路東入西之町232-6,Steak,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26006053/
+346,monk,3.69,52,Keage,京都府京都市左京区浄土寺下南田町147,"Italian, Pizza",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260302/26026737/
+347,Nihon Ryouri Fujii,3.69,36,Mototanaka,京都府京都市左京区浄土寺上南田町91,Japanese Cuisine,"JPY 4,000～JPY 4,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26030328/
+348,Take hisa,3.69,25,Marutamachi,京都府京都市中京区竹屋町通室町東入亀屋町141-1,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26025049/
+349,Menya Yuukou,3.68,1046,Karasuma Oike,京都府京都市中京区場之町588,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26029638/
+350,Suke Masa Hon Ten,3.68,944,Shijo,京都府京都市下京区堀之内町263 １Ｆ,Dumplings,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26017170/
+351,Iduu,3.68,899,Gion Shijo,京都府京都市東山区八坂新地清本町367,"Japanese Cuisine, Sushi, Pressed sushi stick","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26000585/
+352,Menya Takei Hon Ten,3.68,800,Nagaike,京都府城陽市観音堂甲田48-2,"Tsukemen, Ramen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2607/A260704/26017227/
+353,Toritani,3.68,773,Yamanouchi,京都府京都市右京区西院四条畑町1-22,"Ramen, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260401/26023597/
+354,Matsunosuke Kyotohonten,3.68,699,Karasuma Oike,京都府京都市中京区高倉御池下ル亀甲屋町605,"Cafe, Cake, Pancake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26000068/
+355,kamal,3.68,677,Karasuma Oike,京都府京都市中京区三条通東洞院東入ル菱屋町32-1,Curry,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26019639/
+356,Gion Duck Noodles,3.68,673,Gion Shijo,京都府京都市東山区祇園北側329 1F D号,"Ramen, Tsukemen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26031755/
+357,Shin Oomiya Chuuka No Sakai Hon Ten,3.68,621,Kitaoji,京都府京都市北区紫野上門前町新大宮商店街北大路上ル92 新大宮商店街,Chinese,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260503/26001225/
+358,Ka shou,3.68,550,Mototanaka,京都府京都市左京区田中里ノ内町41-1,"Chinese, Ramen",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260302/26003713/
+359,Furutsu Para Yaoiso,3.68,483,Omiya,京都府京都市下京区四条大宮東立中町496,"Fruit parlour, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26022444/
+360,Semmon Ten Gionhonten,3.68,450,Gion Shijo,京都府京都市東山区花見小路新橋下ル 竹会館　1F,Dumplings,"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26001868/
+361,Morita ya Kiyamachi Ten,3.68,392,Sanjo,京都府京都市中京区木屋町三条上ル上大阪町531,"Sukiyaki, Steak, Shabu shabu (Japanese hotpot)","JPY 6,000～JPY 7,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26000410/
+362,Mogumogu Bekari,3.68,352,Uji,京都府宇治市宇治妙楽26-1,"Bread, Sandwich",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260701/26006153/
+363,Yanagikouji Taka,3.68,347,Kyoto Kawaramachi,京都府京都市中京区中之町577 柳小路 はちべえ長屋,"Stand Bar, Baru (Spanish style bar)","JPY 3,000～JPY 3,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26027454/
+364,PIZZERIA MARITA,3.68,273,Karasuma,京都府京都市中京区堺町通錦小路上ル512,Pizza,"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26020891/
+365,Oryouri Menami,3.68,263,Sanjo,京都府京都市中京区木屋町三条上ル中島町96 三条木屋町ビルⅡ 1F,"Japanese Cuisine, Izakaya (Tavern)",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26001266/
+366,Jimba Dou,3.68,255,Kitayama,京都府京都市北区上賀茂御薗口町4,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26000370/
+367,Sobaya Nikora,3.68,249,Imadegawa,京都府京都市上京区五辻町69-3,"Soba (Buckwheat noodles), Nihonshu (Japanese sake)",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26000514/
+368,Tonkatsu Shimizu,3.68,238,Jingu Marutamachi,京都府京都市上京区河原町通丸太町上ル上生洲町248-5,"Tonkatsu (Pork cutlet), Izakaya (Tavern)",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26022134/
+369,Risutorante Noro,3.68,191,Nijo,京都府京都市中京区西ノ京職司町67-14,"Italian, Yoshoku (Japanese style western cuisine)","JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26029064/
+370,tempura tokoro kyourinsen,3.68,190,Kyoto,京都府京都市下京区烏丸通塩小路下ル JR京都駅中央口 ホテルグランヴィア京都 M3F,Tempura,"JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260101/26000484/
+371,pan scape Nijo Ekimae Ten,3.68,173,Nijo,京都府京都市中京区西ノ京職司町19-3,"Bread, Sandwich",-,-,https://tabelog.com/en/kyoto/A2601/A260203/26017091/
+372,Ihara Da,3.68,160,Tambaguchi,京都府京都市下京区西七条比輪田町26,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26001469/
+373,Hirano ya,3.68,116,Arashiyama Torokko Station,京都府京都市右京区嵯峨鳥居本仙翁町16,"Japanese Cuisine, Sweets","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260403/26000808/
+374,Mizudaki Manjirou,3.68,113,Gion Shijo,京都府京都市東山区新橋通大和大路東入元吉町58,"Mizutaki, Chicken dishes, Oyako-don (Chicken and egg bowl)","JPY 1,000～JPY 1,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26005739/
+375,Sushi Fukagawa,3.68,101,Kyoto Shiyakusho Mae,京都府京都市中京区松本町576-2 ルレーブ寺町夷川,"Sushi, Japanese Cuisine, Crab","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26006733/
+376,KYOTO STAR BAR,3.68,99,Sanjo,京都府京都市中京区木屋町通三条下る材木町185-5,"Bar, Shaved ice (snow cone)","JPY 2,000～JPY 2,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26027655/
+377,Shunai Sasaki,3.68,87,Kyoto Kawaramachi,京都府京都市下京区寺町仏光寺上ル中之町582,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26021046/
+378,Teuchi Soba Sushi Imafuku,3.68,78,Fujinomori,京都府京都市伏見区深草町通町26,"Soba (Buckwheat noodles), Noodles","JPY 2,000～JPY 2,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260601/26024211/
+379,Tenyuu,3.68,76,Kyoto Shiyakusho Mae,京都府京都市中京区麩屋町三条上ル下白山町299,"Tempura, Japanese Cuisine","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260203/26026440/
+380,Gion Iwasaki,3.68,65,Gion Shijo,京都府京都市東山区祗園町南側570-183,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26027859/
+381,Kushi Kanzashi Kyu,3.68,58,Sanjo,京都府京都市中京区先斗町樵木町192,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26001262/
+382,Tsuroku,3.68,46,Marutamachi,京都府京都市中京区松屋町51,Japanese Cuisine,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26033992/
+383,Shokukou Bou Hirosaki,3.68,13,Marutamachi,京都府京都市中京区竹屋町通新町東相生町282,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26014167/
+384,Wabiya Koreki Do Gion Hanami Koji Honten,3.67,636,Gion Shijo,京都府京都市東山区四条花見小路下ル祇園町南側 歌舞練場北側,"Yakitori (Grilled chicken skewers), Chicken dishes, Oyako-don (Chicken and egg bowl)","JPY 1,000～JPY 1,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26000850/
+385,Ichikawaya Kohi,3.67,494,Kiyomizu Gojo,京都府京都市東山区鐘鋳町396-2,"Cafe, Traditional Café","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26026585/
+386,Marutamachi Juunidanya,3.67,492,Marutamachi,京都府京都市中京区烏丸丸太町西入,Japanese Cuisine,"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26000438/
+387,COFFEE HOUSE maki,3.67,468,Demachiyanagi,京都府京都市上京区河原町今出川上ル青龍町211,"Traditional Café, Sandwich, Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26009412/
+388,suba,3.67,468,Kiyomizu Gojo,京都府京都市下京区木屋町通松原上ル美濃屋町182-10,Stand-up soba,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26036945/
+389,Ikite Iru Kohi,3.67,465,Kyoto Kawaramachi,京都府京都市下京区四条通麩屋町西入 立売東町みのや四条ビルB１F,"Traditional Café, Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26017295/
+390,Sarada No Mise Sancho Kawaramachi Honten,3.67,427,Kyoto Kawaramachi,京都府京都市中京区裏寺町通四条上ル中之町572,"Yoshoku (Japanese style western cuisine), Hamburger steak, Steak","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26001323/
+391,Gion Uokeya U,3.67,419,Gion Shijo,京都府京都市東山区祇園西花見小路四条下ル,"Unagi (Eel), Japanese Cuisine","JPY 4,000～JPY 4,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26001387/
+392,Mangetsu Jei A Ru Kyoto Isetan Ten,3.67,375,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 B1F,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26014448/
+393,Ramenya Akihide,3.67,366,Ichijoji,京都府京都市左京区一乗寺北大丸町5-2,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26002155/
+394,Juukou Gundan,3.67,324,Ichijoji,京都府京都市左京区高野泉町6-74,"Ramen, Tsukemen, Abura soba mixed noodle",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26003582/
+395,Sakai,3.67,292,Karasuma,京都府京都市中京区高倉通錦小路下ル西魚屋町592,"Sushi, Kaisen-don (Seafood bowl)","JPY 4,000～JPY 4,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26000463/
+396,HANA KAGO,3.67,292,Karasuma,京都府京都市中京区室町通六角下ル鯉山町516-4,"Bread, Sandwich","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26025406/
+397,Oniku to Yasai Hachibe,3.67,269,Kyoto Kawaramachi,京都府京都市中京区新京極四条上ル中之町577-17 １Ｆ・２Ｆ,"Beef dishes, Horumon (BBQ Offel), Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26002409/
+398,Raku An,3.67,232,Karasuma,京都府京都市下京区神明町241-1,"Izakaya (Tavern), Japanese Cuisine",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26000829/
+399,Chidori tei,3.67,195,Gion Shijo,京都府京都市東山区団栗通大和大路西入ル六軒町203,"Sushi, Japanese Cuisine","JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26000570/
+400,Tsuneya Densuke,3.67,85,Marutamachi,京都府京都市中京区観音町84,"Izakaya (Tavern), Seafood, Japanese Cuisine",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26003771/
+401,Temmu Su Kita,3.67,72,Gojo,京都府京都市下京区天神前町340,"Onigiri (Rice ball), Tempura, Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26029435/
+402,COPPIE,3.67,71,Shijo Omiya,京都府京都市下京区高辻猪熊町367,"Creative, Innovative",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26036377/
+403,Niou Mommui,3.67,51,Sanjo Keihan,京都府京都市左京区新丸太町41-1,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26036035/
+404,Hide zushi,3.67,43,Matsugasaki,京都府京都市左京区下鴨南茶ノ木町39-1,Sushi,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260503/26000293/
+405,Tenjaku,3.67,12,Kitano Hakubaicho,京都府京都市上京区千本通五辻上る牡丹鉾町570,"Tempura, Japanese Cuisine",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260501/26011319/
+406,Shokuba Xa Rakumi,3.67,11,Gion Shijo,京都府京都市東山区祇園町南側570-205,Japanese Cuisine,-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26033093/
+407,Kyou Udon Nama Soba Okakita,3.66,1241,Higashiyama,京都府京都市左京区岡崎南御所町34,"Udon (Wheat noodles), Soba (Buckwheat noodles), Donburi (Rice bowl)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260302/26000919/
+408,Sobanomi Yoshimura,3.66,933,Gojo,京都府京都市下京区五条通烏丸東入ル松屋町420,"Soba (Buckwheat noodles), Izakaya (Tavern), Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26002621/
+409,Gyouza Hohei Gionhonten,3.66,739,Gion Shijo,京都府京都市東山区清本町373-3,"Dumplings, Izakaya (Tavern)",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26018951/
+410,Kaidashimen Kitada,3.66,687,Kyoto,京都府京都市下京区北不動堂町570-3,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26036754/
+411,Ramen Tsuru Musha,3.66,633,Saiin,京都府京都市右京区西院矢掛町28-2,"Ramen, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260401/26019331/
+412,Fuurai Bou,3.66,610,Nagaokakyo,京都府長岡京市神足大張8番地 1F,"Tsukemen, Dandan noodles, Ramen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260702/26003956/
+413,Tonoda,3.66,559,Kujo,京都府京都市南区東九条上殿田町15,"Cafeteria, Udon (Wheat noodles)",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260604/26011323/
+414,Kanton Ryourihousen,3.66,538,Kyoto Shiyakusho Mae,京都府京都市中京区河原町二条上ル清水町359 ＡＢビル　１Ｆ,Chinese,"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26014396/
+415,Kissa Chiroru,3.66,536,Nijojo Mae,京都府京都市中京区御池通大宮西入ル門前町539-3,"Traditional Café, Curry",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260203/26002251/
+416,Brian t Kitayama Honten,3.66,487,Kitayama,京都府京都市北区上賀茂岩ヶ垣内町33-39,"Bread, Cafe, Bistro","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260503/26004348/
+417,Old Hong Kong Restaurant Kyoto,3.66,448,Shijo,京都府京都市下京区烏丸通四条下ル水銀屋町620 COCON烏丸　B1F,"Chinese, Dim sum","JPY 2,000～JPY 2,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26000745/
+418,Umezono Kafe Ando Gyarari,3.66,444,Karasuma,京都府京都市中京区不動町180,"Sweets, Cafe, Pancake","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26016445/
+419,Tsukemen Enaku,3.66,442,Ichijoji,京都府京都市左京区一乗寺高槻町20-2,Tsukemen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26016477/
+420,Henkotsu,3.66,405,Kyoto,京都府京都市下京区木津屋橋通烏丸西入ル東塩小路町579 あすなろビル 1F,"Izakaya (Tavern), Beef dishes, Oden",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26000797/
+421,che ka,3.66,382,Keage,京都府京都市左京区岡崎法勝寺町25番地,"Cafe, Cake, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26016994/
+422,Shunsai Imari,3.66,380,Karasuma Oike,京都府京都市中京区西六角町108,"Japanese Cuisine, Izakaya (Tavern)","JPY 1,000～JPY 1,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26021797/
+423,Sosaku Chuka Ichino Funairi,3.66,352,Kyoto Shiyakusho Mae,京都府京都市中京区河原町二条下ル一之船入町537-50,"Chinese, Dim sum","JPY 5,000～JPY 5,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26002657/
+424,Shiru kou,3.66,348,Kyoto Kawaramachi,京都府京都市下京区西木屋町四条上ル真町100,"Japanese Cuisine, Bento (Lunch box)","JPY 3,000～JPY 3,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26000755/
+425,maison de frouge,3.66,330,Karasuma Oike,京都府京都市中京区三文字町201,"Cake, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26023508/
+426,Fuuka Nishiki Ten,3.66,286,Karasuma,京都府京都市中京区錦小路堺町角菊屋町534-1,"Japanese sweets, Other","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26007146/
+427,Kafedom Bai Sufera,3.66,268,Gion Shijo,京都府京都市東山区弁財天町17 スフェラ・ビル OF,"Cafe, Sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26001633/
+428,Chez Hagata,3.66,263,Mimurodo,京都府宇治市莵道谷下り44-11,"Cake, Sweets, Chocolate","JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2607/A260701/26009042/
+429,Shirohato Bekari,3.66,262,Karasuma Oike,京都府京都市中京区西押小路町102-2 ヴィラート押小路 1F,"Bread, Bagel, Sandwich",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260202/26021765/
+430,Bekkarai Peru Keo Aruto Haideruberuku,3.66,258,Keage,京都府京都市左京区岡崎天王町54-1 クリヨン岡崎１階,"Bread, Chocolate, Cafe",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260301/26014599/
+431,kafe verudhi,3.66,255,Kitayama,京都府京都市左京区下鴨芝本町49-24 アディー下鴨１Ｆ,"Cafe, Cake",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260503/26003964/
+432,coneru ya,3.66,253,Nijo,京都府京都市中京区聚楽廻西町71-2,"Bread, Sandwich, Bagel",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26002695/
+433,Sushi Zen,3.66,244,Karasuma Oike,京都府京都市中京区三条通新町東入ル衣棚町41-2,Sushi,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26001255/
+434,bonne volonte,3.66,242,Jingu Marutamachi,京都府京都市上京区河原町通荒神口下ル上生洲町229-1,"Bread, Sweets, Bagel",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26002684/
+435,La Locanda Za Rittsu Karuton Kyoto,3.66,220,Kyoto Shiyakusho Mae,京都府京都市中京区鴨川二条大橋畔 リッツカールトン京都 1F,"Italian, European, Restaurants","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26023294/
+436,Washoku Haru,3.66,204,Karasuma,京都府京都市下京区神明町230-2,Izakaya (Tavern),"JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26026013/
+437,Kyouryourikinobu,3.66,195,Shijo,京都府京都市下京区新町通仏光寺下ル岩戸山町416,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26000824/
+438,Matsumoto,3.66,182,Kyoto Kawaramachi,京都府京都市中京区中之町577,"Soba (Buckwheat noodles), Nihonshu (Japanese sake)","JPY 6,000～JPY 7,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26022778/
+439,Tan,3.66,163,Higashiyama,京都府京都市東山区五軒町106-13,Japanese Cuisine,"JPY 3,000～JPY 3,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26027731/
+440,Kamehiro naga,3.66,149,Karasuma,京都府京都市中京区高倉通蛸薬師上ル和久屋町359,Japanese sweets,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26004744/
+441,Matsuya Tokiwa,3.66,135,Marutamachi,京都府京都市中京区堺町通丸太町下ル橘町83,Japanese sweets,～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260202/26000620/
+442,Restaurant Hiramatsu Kodaiji,3.66,135,Gion Shijo,京都府京都市東山区高台寺桝屋町353,"French, Innovative","JPY 6,000～JPY 7,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26029588/
+443,Gion Okada,3.66,119,Gion Shijo,京都府京都市東山区祇園町南側570-6,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26004733/
+444,RESTAURANT TAMURA,3.66,103,Sanjo Keihan,京都府京都市東山区古門前通大和大路東入ル元町391-1,"French, Yoshoku (Japanese style western cuisine), European","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26005435/
+445,Nijo Kizuki,3.66,101,Kyoto Shiyakusho Mae,京都府京都市中京区二条通柳馬場東入ル晴明町659 ヴァインオークFINE 1F,"Sushi, Creative, Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26024174/
+446,HANA Kiccho,3.66,93,Gion Shijo,京都府京都市東山区大和町3-2,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26000563/
+447,Shokudou Ebichan,3.66,81,Kyoto Kawaramachi,京都府京都市下京区西木屋町通四条下ル船頭町225,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26038480/
+448,Miyagawachou Suiren,3.66,76,Gion Shijo,京都府京都市東山区宮川筋2-253,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26020313/
+449,Uzura ya Kyoto Shijo,3.66,75,Gion Shijo,京都府京都市東山区川端通四条上ル東詰,"Chicken dishes, Yakitori (Grilled chicken skewers)",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26003283/
+450,Kyo Suiran,3.66,74,Arashiyama Torokko Station,京都府京都市右京区嵯峨天竜寺芒ノ馬場町12 翠嵐 ラグジュアリーコレクションホテル 京都,"Japanese Cuisine, French, Teppanyaki","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260403/26025328/
+451,Idu Gen,3.66,71,Karasuma,京都府京都市下京区高倉通り綾小路下る竹屋町391,Sushi,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26018372/
+452,Tsujitome Kyoto Isetan Ten,3.66,59,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 B2F,Bento (Lunch box),"JPY 5,000～JPY 5,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260101/26002802/
+453,Kappou Umetsu,3.66,52,Gion Shijo,京都府京都市東山区祇園町北側347-93,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26018077/
+454,Volta,3.66,45,Saga Torokko Station,京都府京都市右京区嵯峨天龍寺瀬戸川町4-3,"Steak, Vegetable dishes, Yoshoku (Japanese style western cuisine)","JPY 4,000～JPY 4,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260403/26012281/
+455,Kaname Annishitomiya,3.66,35,Kyoto Kawaramachi,京都府京都市中京区富小路通六角下ル骨屋之町562,"Ryokan, Japanese Cuisine",-,"JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260201/26001155/
+456,Kii,3.66,24,Shijo,京都府京都市下京区烏丸通仏光寺西入釘隠町242,"Italian, Innovative","JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26032423/
+457,Touka Saikan Hon Ten,3.65,606,Gion Shijo,京都府京都市下京区西石垣通四条下ル斎藤町140-2,"Chinese, Dumplings","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26000846/
+458,Cafe Bibliotic Hello!,3.65,585,Marutamachi,京都府京都市中京区二条通柳馬場東入ル晴明町650,"Cafe, Bread","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26000120/
+459,Misonobashi Sakai,3.65,545,Kitaoji,京都府京都市北区大宮東総門口町38-3,"Chinese, Ramen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260503/26000396/
+460,Takagi Ko Hi Ten Takatsuji Honten,3.65,512,Shijo,京都府京都市下京区高辻通室町東入ル骨屋町175,Traditional Café,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26005195/
+461,Rokuyousha Chikaten,3.65,442,Kyoto Shiyakusho Mae,京都府京都市中京区河原町三条下ル大黒町40 B1F,"Traditional Café, Cafe, Bar",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26000159/
+462,mugesanbou sarondo muge,3.65,441,Higashiyama,京都府京都市東山区下河原町通高台寺北門前鷲尾町524,"Sweets, Japanese Cuisine, Traditional Café","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26028853/
+463,Ganko Men,3.65,382,Fujinomori,京都府京都市伏見区深草西浦町6-62 キャッスル深草 1F,"Ramen, Tsukemen",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260601/26022742/
+464,kare semmon ten bixiyanto,3.65,374,Jingu Marutamachi,京都府京都市左京区東大路通丸太町上ル東側聖護院西町12,Curry,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26001075/
+465,Miyoshiya,3.65,319,Gion Shijo,京都府京都市東山区四条通大和大路西入ル廿一軒町226,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260301/26002185/
+466,Taku taku,3.65,314,Yodo,京都府久世郡久御山町野村村東240,Yakiniku (BBQ Beef),"JPY 1,000～JPY 1,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2607/A260702/26002078/
+467,kicchi n papa,3.65,310,Kitano Hakubaicho,京都府京都市上京区上立売通千本東入姥ヶ西町591,"Yoshoku (Japanese style western cuisine), Hamburger steak, Izakaya (Tavern)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260501/26003707/
+468,Teuchi Soba Hanamomo,3.65,303,Marutamachi,京都府京都市中京区丸太町麩屋町西入ル昆布屋町398,Soba (Buckwheat noodles),"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26016470/
+469,Amaguri No Shinise Hayashimanshoudou Hon Ten,3.65,273,Kyoto Kawaramachi,京都府京都市下京区四条通寺町東入ル御旅宮本町3,"Japanese sweets, Sweets , Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26000796/
+470,Iso zumi,3.65,261,Kyoto Kawaramachi,京都府京都市中京区河原町通四条上ル米屋町388 １Ｆ,"Izakaya (Tavern), Oden, Kushiyaki",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26002003/
+471,Yume ya,3.65,255,Kyoto Shiyakusho Mae,京都府京都市左京区川端通二条通上ル孫橋町1,"Okonomiyaki (Japanese savory pancake), Stir-fried noodles, Izakaya (Tavern)",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260302/26005094/
+472,Baji toufuu,3.65,232,Karasuma,京都府京都市中京区室町通四条上る菊水鉾町587,Yakitori (Grilled chicken skewers),-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26008024/
+473,Mari Furansu Hokusanten,3.65,204,Kitayama,京都府京都市左京区下鴨南芝町44 比叡荘ビル１Ｆ,"Bread, Sandwich",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26004491/
+474,SCALAE,3.65,184,Kyoto,京都府京都市下京区東塩小路町570 THE THOUSAND KYOTO 2F,"Italian, Buffet style, Wine bar","JPY 4,000～JPY 4,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260101/26031801/
+475,Gion Karoku,3.65,165,Gion Shijo,京都府京都市東山区八坂通東大路西入ル小松町566-25,"Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26002425/
+476,Ryouriryokan Tempura Yoshikawa,3.65,146,Kyoto Shiyakusho Mae,京都府京都市中京区富小路通御池下ル松下町135 料理旅館・天ぷら　吉川,"Tempura, Japanese Cuisine, Ryokan","JPY 3,000～JPY 3,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26001150/
+477,Teramachi Fukuda,3.65,102,Kyoto Kawaramachi,京都府京都市下京区寺町通仏光寺下る恵美須之町528 えびすテラス 2F,"Izakaya (Tavern), Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26020479/
+478,Affinage,3.65,101,Sanjo Keihan,京都府京都市東山区中之町244-1 花見会館汀館１F,"Wine bar, Bar",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26017518/
+479,Koryouri Takaya,3.65,89,Kyoto,京都府京都市下京区七条通烏丸西入西境町165 GEM7 1F,Japanese Cuisine,"JPY 2,000～JPY 2,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26027640/
+480,hikari yurari,3.65,79,Kyoto Shiyakusho Mae,京都府京都市中京区押小路通麩屋町東入橘町611-1 ヴァインオークトゥエルブ B1F,"Italian, Wine bar",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26002637/
+481,Tsubomi,3.65,73,Omiya,京都府京都市中京区錦大宮町152,"Takoyaki (Octopus balls), Okonomiyaki (Japanese savory pancake)",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260203/26023844/
+482,Kikou,3.65,68,Gion Shijo,京都府京都市下京区西木屋町通四条下る船頭町202,"Japanese Cuisine, Tofu dishes",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26000847/
+483,Hashiya To Nakase,3.65,60,Gojo,京都府京都市下京区大江町547-8,"Izakaya (Tavern), Italian, Baru (Spanish style bar)",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26037723/
+484,Tako hachi,3.65,57,Kyoto Kawaramachi,京都府京都市中京区蛸薬師通新京極西入ル東側町498,Japanese Cuisine,-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26005639/
+485,Ichi hana,3.65,56,Nijojo Mae,京都府京都市中京区油小路通二条下ル二条油小路町264-1,"Japanese Cuisine, Kamameshi","JPY 3,000～JPY 3,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260203/26025178/
+486,Sushi Rakumi,3.65,51,Sanjo Keihan,京都府京都市東山区三吉町332-6,"Sushi, Seafood, Japanese Cuisine",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26031820/
+487,Kanzan,3.65,33,Shijo,京都府京都市下京区高辻通高倉泉正寺町465-2 たかくらビル 1F,"Japanese Cuisine, Kamameshi","JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26028193/
+488,Hishi iwa Jei Aru Kyoto Isetan Ten,3.65,30,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 B2F,Bento (Lunch box),"JPY 5,000～JPY 5,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260101/26009370/
+489,Jikiba Oono,3.65,20,Gion Shijo,京都府京都市東山区月見町6-2,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26027476/
+490,Menshou Takamatsu Hon Ten,3.64,1040,Karasuma,京都府京都市中京区一蓮社町312,"Tsukemen, Ramen, Noodles",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26019002/
+491,Menya Takei Aruan Ten,3.64,879,Kuzuha,京都府八幡市八幡南山57-2,"Tsukemen, Ramen, Dumplings","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2607/A260702/26023971/
+492,The Kitchen Salvatore Cuomo Kyoto,3.64,630,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 10F,"Italian, Izakaya (Tavern), Pizza","JPY 2,000～JPY 2,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260101/26001972/
+493,Rokuyou Sha Ko Hi Ten,3.64,532,Kyoto Shiyakusho Mae,京都府京都市中京区河原町三条下ル大黒町40,Traditional Café,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26013227/
+494,Iicho Ra-Men,3.64,524,Kitaoji,京都府京都市左京区下鴨東半木町70-10 エイブル東半木 1F,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260503/26000384/
+495,Taiyou Kare,3.64,434,Sai,京都府京都市中京区壬生西土居ノ内町19 ボイスビル 2F,"Curry, Yoshoku (Japanese style western cuisine)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260401/26022669/
+496,CACAO MARKET by MarieBelle,3.64,429,Gion Shijo,京都府京都市東山区常盤町165-2,"Chocolate, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26022668/
+497,CLAMP COFFEE SARASA,3.64,341,Nijo,京都府京都市中京区西ノ京職司町67-38 1F,"Cafe, Sweets",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260203/26022889/
+498,Nippon Ramen Rin Kyoto,3.64,329,Karasuma,京都府京都市中京区東洞院錦小路下ル阪東屋町653-1,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26037423/
+499,Jumelles 29,3.64,320,Kyoto Kawaramachi,京都府京都市下京区麩屋町綾小路通下ル塩屋町81-1,"Bistro, Italian, Meat dishes",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26018401/
+500,Kuriketto,3.64,299,Kitano Hakubaicho,京都府京都市北区平野八丁柳町68-1 サニーハイム金閣寺　１Ｆ,"Fruit parlour, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260401/26000321/
+501,Mitama ya,3.64,265,Matsugasaki,京都府京都市左京区下鴨高木町西入ル下鴨東本町18-1,Japanese sweets,-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260503/26002571/
+502,bekari ryuugetsudou,3.64,248,Demachiyanagi,京都府京都市左京区田中下柳町5-1 柳月堂ビル 1F,"Bread, Sandwich",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260302/26001108/
+503,Fuji mura,3.64,220,Omiya,京都府京都市下京区仏光寺通油小路西入ル,Yakiniku (BBQ Beef),-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260101/26004181/
+504,FLEUR DE FARINE,3.64,215,Karasuma Oike,京都府京都市中京区東洞院通三条下ル三文字町200 ミックナカムラビル　１Ｆ,"Bread, Sandwich",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26004724/
+505,Kim mata,3.64,181,Kyoto Kawaramachi,京都府京都市中京区大日町407,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26000452/
+506,Torinago,3.64,178,Fukuchiyama,京都府福知山市中ノ233-11,"Chicken dishes, Hot Pot, Izakaya (Tavern)",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2608/A260802/26013202/
+507,OHAYO biscuit,3.64,172,Imadegawa,京都府京都市上京区油橋詰町96-2,"Cake, Cafe, Sweets",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260202/26025296/
+508,Kyouto Kuriya,3.64,150,Marutamachi,京都府京都市中京区大文字町42-4,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260202/26005379/
+509,Riki Chan Gion Ten,3.64,149,Gion Shijo,京都府京都市東山区祇園町南側572-10,Yakiniku (BBQ Beef),"JPY 15,000～JPY 19,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26036373/
+510,Gion Kawakami,3.64,148,Gion Shijo,京都府京都市東山区祇園町南側570-122,"Japanese Cuisine, Bento (Lunch box)","JPY 6,000～JPY 7,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001875/
+511,Ogami,3.64,128,Gion Shijo,京都府京都市東山区末吉町88 サカタビル1階,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26000599/
+512,Kameya Yoshinaga,3.64,111,Kyoto Shiyakusho Mae,京都府京都市中京区寺町通御池下ル本能寺前町504,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260201/26000644/
+513,le 14e,3.64,109,Jingu Marutamachi,京都府京都市上京区伊勢屋町393-3 ポガンビル 2Ｆ,"Bistro, Steak",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260302/26021911/
+514,mezondovanu duratei,3.64,107,Gion Shijo,京都府京都市下京区木屋町四条南団栗上ル斉藤町140-16,"French, Mizutaki, Wine bar",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26003662/
+515,Jisai Kyo Man Gion,3.64,98,Gion Shijo,京都府京都市東山区大和新橋東入ル元吉町51-2,"Unagi (Eel), Japanese Cuisine","JPY 6,000～JPY 7,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26031429/
+516,The Northern Lights Corner,3.64,48,Kyoto Kawaramachi,京都府京都市中京区新京極通四条上ル中之町565-23 ハレの日 花遊小路1F,Bar,-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26024874/
+517,Tori Kago,3.64,37,Shijo Omiya,京都府京都市中京区壬生坊城町8-24,Yakitori (Grilled chicken skewers),-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260203/26039593/
+518,Giwon Komori,3.63,1062,Gion Shijo,京都府京都市東山区新橋通大和大路東入元吉町61,"Sweets, Japanese sweets, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26000280/
+519,Ichijouji Nakatani,3.63,497,Ichijoji,京都府京都市左京区一乗寺花ノ木町5,"Sweets, Japanese sweets, Cake","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26000491/
+520,Tsukiji,3.63,479,Kyoto Kawaramachi,京都府京都市中京区米屋町384-2,Traditional Café,"JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26001588/
+521,Kameya Yoshinaga Honten,3.63,325,Omiya,京都府京都市下京区四条通油小路西入柏屋町17-19,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26000331/
+522,Kyou No Yakiniku Dokoro Hiro Senbon Sanjo Honten,3.63,298,Nijo,京都府京都市中京区壬生朱雀町2-6,Yakiniku (BBQ Beef),-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260203/26002138/
+523,Daigoku Den Hompo Hon Ten,3.63,295,Karasuma,京都府京都市中京区高倉通四条上ル帯屋町590,"Japanese sweets, Sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26005531/
+524,Kashi Shokunin,3.63,259,Saiin,京都府京都市右京区西院西高田町19,Cake,-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260401/26001545/
+525,Inari Futaba,3.63,231,Fushimi Inari,京都府京都市伏見区深草稲荷仲之町55,"Japanese sweets, Daifuku",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260601/26007559/
+526,Tori No Ki Kohi,3.63,221,Marutamachi,京都府京都市中京区夷川通東洞院東入る山中町542 モア御所南 1F,Cafe,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26023725/
+527,Patisserie TATSUHITO SATOI,3.63,221,Mototanaka,京都府京都市左京区北白川追分町2 Eフラット北白川 1F,"Cake, Bread, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26027249/
+528,yakitate pan manhattan,3.63,205,Tambaguchi,京都府京都市中京区壬生辻町18,"Bread, Sandwich",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260203/26014268/
+529,Salon de the m.s.h,3.63,197,Kyoto Shiyakusho Mae,京都府京都市中京区押小路通麩屋町西入ル橘町630,"Cake, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26003483/
+530,Horumon Chiba,3.63,196,Gion Shijo,京都府京都市下京区船頭町234-1,Horumon (BBQ Offel),-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26034584/
+531,Hachikian Marutachohonten,3.63,179,Jingu Marutamachi,京都府京都市左京区東丸太町8番地,"Chicken dishes, Sukiyaki, Japanese Cuisine","JPY 3,000～JPY 3,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26001086/
+532,MISSLIM Tea Place,3.63,170,Jingu Marutamachi,京都府京都市上京区河原町丸太町下ル伊勢屋町400,Cafe,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26017496/
+533,caffe latte,3.63,169,Saiin,京都府京都市右京区西院乾町70-1 ジェミニビル　１Ｆ,"Gelato,Ice cream",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260401/26005484/
+534,Minokichi Honten Takeshigerou,3.63,136,Higashiyama,京都府京都市左京区粟田口鳥居町65,"Japanese Cuisine, Unagi (Eel), Seafood",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001001/
+535,Housen dou Hon Ten,3.63,115,Matsugasaki,京都府京都市左京区下鴨膳部町21,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26005834/
+536,Korean Shokudo Iru Goshominami,3.63,101,Karasuma Oike,京都府京都市中京区金吹町478,Korean,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26034228/
+537,Sushi Toku,3.63,94,Kyoto,京都府京都市下京区東境町179 2F,"Sushi, Japanese Cuisine","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260101/26035349/
+538,Bistro Yanagihara,3.63,94,Kyoto Shiyakusho Mae,京都府京都市中京区河原町二条上る清水町358,"French, Bistro",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26017103/
+539,Kisho Zakura,3.63,87,Kiyomizu Gojo,京都府京都市東山区松原通大和大路2丁目轆轤町100,"French, Creative","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26016519/
+540,Kiyamachi Samboa,3.63,69,Kyoto Kawaramachi,京都府京都市中京区西木屋町通四条上ル紙屋町367,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26000679/
+541,Take zaki,3.63,64,Karasuma Oike,京都府京都市中京区押小路通高倉東入竹屋町150,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26025714/
+542,comme ci comme ca,3.63,57,Higashiyama,京都府京都市左京区岡崎法勝寺町124-4,French,"JPY 15,000～JPY 19,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26001089/
+543,Puchiresutoran Naitou,3.63,51,Kyoto Shiyakusho Mae,京都府京都市中京区尾張町217 サンロータス池治 1F,"Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Hamburger steak","JPY 2,000～JPY 2,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26033759/
+544,Luca,3.63,40,Kyoto Kawaramachi,京都府京都市中京区富小路通蛸薬師下ル高宮町585 若葉ビル 2F,"French, Restaurants","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26037178/
+545,moku,3.63,36,Kiyomizu Gojo,京都府京都市東山区音羽町325,Izakaya (Tavern),"JPY 8,000～JPY 9,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26040523/
+546,Wakamatsuya Sakaten,3.63,36,Kyoto,京都府京都市下京区七条通烏丸西入ル西境町166,"Izakaya (Tavern), Hot Pot",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26016525/
+547,koe donuts Kyobashi Ten,3.62,701,Kyoto Kawaramachi,京都府京都市中京区新京極四条上ル中之町557 京都松竹第3ビル 1F,"Cafe, Donut, Sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26032035/
+548,Waguri Semmon Sawori,3.62,689,Kyoto Kawaramachi,京都府京都市下京区木屋町通松原上る二丁目和泉屋町170-1,"Sweets, Cafe, Sweets","JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26033014/
+549,Ume Zono Kawaramachi Ten,3.62,530,Sanjo,京都府京都市中京区河原町三条下る山崎町234-4,Sweets,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26001860/
+550,Tenten Yuu Hon Ten,3.62,522,Ichijoji,京都府京都市左京区一乗寺西杉ノ宮町49,"Ramen, Dumplings",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26000840/
+551,Oni kai,3.62,448,Kyoto Kawaramachi,京都府京都市中京区河原町通四条上ル米屋町388 ２Ｆ,"Izakaya (Tavern), Vegetable dishes, Japanese Cuisine",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26002004/
+552,ramem mugyu Boru Ichi Hon Ten,3.62,408,Emmachi,京都府京都市中京区西ノ京円町22-10,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26028474/
+553,Kyouto Kare Seisakusho Kariru,3.62,400,Marutamachi,京都府京都市上京区春帯町349-1 永楽アパルシオン1F,"Curry, Indian curry","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26025279/
+554,Tori Yasa,3.62,370,Gion Shijo,京都府京都市下京区西石垣通四条下ル斉藤町136,"Mizutaki, Chicken dishes, Japanese Cuisine",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26000764/
+555,Aoi Ya Yaki Mochi Sou Hompo,3.62,350,Kitayama,京都府京都市北区上賀茂本山339,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26001223/
+556,Saru ya,3.62,314,Demachiyanagi,京都府京都市左京区下鴨泉川町59 下鴨神社境内,"Sweets, Cafe, Japanese sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26018649/
+557,Mendokoro Janomeya,3.62,313,Kyoto Kawaramachi,京都府京都市中京区中之町565-23 ハレの日 花遊小路 2F,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26035164/
+558,Menya Jisuri,3.62,305,Nishi Kizu,京都府木津川市木津神田6-48,"Ramen, Dumplings",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260705/26025590/
+559,Hashirii Mochi Rouho,3.62,304,Iwashimizu Hachimangu,京都府八幡市八幡高坊19,"Japanese sweets, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2607/A260702/26004256/
+560,SPICE GATE,3.62,295,Kyoto Kawaramachi,京都府京都市下京区恵美須之町546 しきさい寺町ビル 2F,"Curry, Cafe, Asian Cuisine, Ethnic Cuisine","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26037542/
+561,Mujara,3.62,291,Shijo Omiya,京都府京都市下京区高辻通大宮西入坊門町832 イツワマンション 1F,Curry,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26027864/
+562,Yuzuya Ryokan Isshin Kyo,3.62,286,Gion Shijo,京都府京都市東山区祇園町八坂神社南隣545,"Japanese Cuisine, Auberge, Hot Pot","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26004222/
+563,Kyoto Ichinoden Honten,3.62,277,Karasuma,京都府京都市中京区柳馬場通り錦上る十文字町435番地,Japanese Cuisine,"JPY 5,000～JPY 5,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26006150/
+564,Kasagiya,3.62,247,Gion Shijo,京都府京都市東山区桝屋町349,"Sweets, Cafe, Shaved ice (snow cone)",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260301/26000596/
+565,GOSPEL,3.62,236,Mototanaka,京都府京都市左京区浄土寺上南田町36 2F,"Cafe, Pub, Cake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26000296/
+566,Jiki Miyazawa,3.62,221,Karasuma,京都府京都府京都市中京区堺町四条上ル東側八百屋町553-1,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26005687/
+567,Gion Karyo,3.62,205,Gion Shijo,京都府京都市東山区祇園町南側 祇園甲部歌舞練場前,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26002441/
+568,Kyou Yakiniku Hiro Gion Sanmeian,3.62,183,Gion Shijo,京都府京都市東山区祇園四条縄手上ル新橋16,Yakiniku (BBQ Beef),"JPY 8,000～JPY 9,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26002137/
+569,Moritaya Shijo Inokuma Mototen,3.62,179,Omiya,京都府京都市中京区猪熊通四条上ル錦猪熊町521 2F,"Sukiyaki, Shabu shabu (Japanese hotpot), Steak","JPY 10,000～JPY 14,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26000409/
+570,Menya Sakamoto,3.62,177,Kuramaguchi,京都府京都市上京区烏丸鞍馬口下がる上御霊中町456-6 大国ビル 1F,"Ramen, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26032259/
+571,ryuen,3.62,166,Karasuma Oike,京都府京都市中京区三条通室町西入ル衣棚町39,"Italian, Dining bar, Wine bar",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26005215/
+572,Kanton Oryouri Takeka,3.62,151,Gion Shijo,京都府京都市東山区新橋通花見小路西入ル橋本町390,"Chinese, Dim sum",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26000545/
+573,Kameya mutsu,3.62,145,Kyoto,京都府京都市下京区西中筋通七条上ル菱屋町153,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260101/26002071/
+574,Rika Ta,3.62,126,Shijo,京都府京都市下京区高辻通柳馬場西入泉正寺町466 日宝京都2号館 1F,"Italian, Pasta, Seafood","JPY 4,000～JPY 4,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26023842/
+575,raa menya fuditora,3.62,120,Hanazono,京都府京都市右京区太秦安井辻之内町15-7,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260402/26040084/
+576,Yoshidayama Seseri,3.62,106,Kyoto,京都府京都市南区東九条室町31,"Yakitori (Grilled chicken skewers), Izakaya (Tavern), Meat dishes",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260101/26030970/
+577,LAMARCK,3.62,95,Imadegawa,京都府京都市上京区弁財天町333-1,"Cake, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26032371/
+578,Mi kuraya,3.62,89,Kitaoji,京都府京都市北区紫竹北大門町78,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26000978/
+579,Sambongi Shouten,3.62,64,Jingu Marutamachi,京都府京都市上京区真町478,Izakaya (Tavern),-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26032695/
+580,Kushi tora,3.62,56,Saiin,京都府京都市右京区西院北矢掛町39,"Chanko Nabe (Sumo Wrestlers Hot Pot), Hot Pot",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260401/26011139/
+581,KIMURA,3.62,53,Umekoji Kyotonishi,京都府京都市下京区西七条南西野町37-1,"Cake, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260604/26036655/
+582,Rudensu,3.62,45,Marutamachi,京都府京都市中京区間之町通二条上ル夷町560-8,"Italian, Innovative, Creative","JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26029857/
+583,DEUX FILLES,3.62,35,Karasuma,京都府京都市下京区堺町通綾小路西入ル綾材木町199-2 ソンコア綾材木町 1F,"Creative, French","JPY 3,000～JPY 3,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26029432/
+584,MOKO,3.62,18,Marutamachi,京都府京都市中京区玉植町235-2,French,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26039491/
+585,THE SODOH HIGASHIYAMA KYOTO,3.61,917,Gion Shijo,京都府京都市東山区八坂通下河原東入ル八坂上町366,Italian,"JPY 4,000～JPY 4,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26003300/
+586,Le Petitmec Oike Ten,3.61,810,Karasuma Oike,京都府京都市中京区衣棚通御池上ル下妙覚寺186 ビスカリア光樹 1F,"Bread, Sweets , Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26005029/
+587,Kyoto Gion Tempura Yasaka Endo,3.61,747,Gion Shijo,京都府京都市東山区八坂通東大路西入ル小松町566,"Tempura, Japanese Cuisine","JPY 8,000～JPY 9,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26000592/
+588,Idu Juu,3.61,689,Gion Shijo,京都府京都市東山区祇園町北側292-1,"Sushi, Japanese Cuisine, Pressed sushi stick","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26002550/
+589,Shi kura,3.61,514,Kitano Hakubaicho,京都府京都市北区平野宮北町14番地,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260501/26018787/
+590,Kyouto Semmaru Shakariki Hon Ten,3.61,448,Nijo,京都府京都市中京区聚楽廻東町3-9,"Tsukemen, Ramen, Abura soba mixed noodle",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26002690/
+591,Arata,3.61,432,Toji,京都府京都市南区西九条院町24-4,"Okonomiyaki (Japanese savory pancake), Teppanyaki",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260101/26001641/
+592,Uogashi Miyatake,3.61,364,Tambaguchi,京都府京都市下京区西新屋敷下之町6-5 アンクル島原 1F,"Izakaya (Tavern), Seafood","JPY 1,000～JPY 1,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26021276/
+593,Morita ya Jei A Ru Kyoto Isetan Ten,3.61,305,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 11F,"Sukiyaki, Shabu shabu (Japanese hotpot), Steak","JPY 2,000～JPY 2,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260101/26000411/
+594,Shourai an,3.61,302,Arashiyama,京都府京都市右京区嵯峨亀ノ尾町官有地内,"Japanese Cuisine, Tofu dishes","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260403/26003826/
+595,Ra-Men Semmon Ten Dai Ki,3.61,289,Matsuo Taisha,京都府京都市右京区梅津西浦町16,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260403/26003224/
+596,blanc pierre,3.61,279,Kyoto Shiyakusho Mae,京都府京都市中京区御幸町夷川上る松本町577,French,"JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26016182/
+597,Marukyuu Koyamaen Nishi No Toin Ten,3.61,229,Karasuma Oike,京都府京都市中京区西洞院御池下ル西側,"Cafe, Sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26006904/
+598,RUFF,3.61,227,Karasuma,京都府京都市中京区高倉通錦小路上ル貝屋町564,"Cafe, Bread, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26033111/
+599,Nikomi Suzuya,3.61,216,Karasuma Oike,京都府京都市中京区姉小路通新町東入南側二軒目,"Izakaya (Tavern), Beef dishes, Oden",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260202/26025796/
+600,Keihan Uji Ekimae Surugaya,3.61,203,Uji,京都府宇治市宇治東内16,"Japanese sweets, Sweets",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260701/26004992/
+601,Yanagimachi,3.61,202,Fukuchiyama,京都府福知山市下柳町21,"Chicken dishes, Hot Pot, Oyako-don (Chicken and egg bowl)","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2608/A260802/26026220/
+602,Kanu re,3.61,190,Kyoto Shiyakusho Mae,京都府京都市中京区河原町二条上ル清水町362 JOYビル 5F,"Cafe, Sweets , Bar","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26021545/
+603,BENJAMIN STEAK HOUSE Kyoto,3.61,188,Karasuma,京都府京都市中京区阪東屋町660-1 1・2F,"Steak, Dining bar, Seafood","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26031586/
+604,Itsutsu,3.61,184,Kitaoji,京都府京都市北区紫野雲林院町28 紫野和久傳 大徳寺店 2F,"Soba (Buckwheat noodles), Japanese Cuisine","JPY 4,000～JPY 4,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260503/26024473/
+605,Kamogawa Takashi,3.61,175,Jingu Marutamachi,京都府京都市中京区中町通竹屋町上ル末丸町265-1,"Yakiniku (BBQ Beef), Japanese Cuisine, Sukiyaki","JPY 2,000～JPY 2,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260302/26021271/
+606,Tankuma Kitamise Hon Ten,3.61,174,Kyoto Kawaramachi,京都府京都市中京区西木屋町通四条上ル紙屋町355,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26001494/
+607,muresu na ti hausu Kyoto,3.61,164,Karasuma,京都府京都市中京区錦小路通烏丸西入占出山町315-3 日鴻ビル　１Ｆ,Cafe,"JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26000627/
+608,Honke Funahashiya,3.61,141,Sanjo,京都府京都市中京区三条大橋西詰112,"Japanese sweets, Senbei (Rice cracker)",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26005884/
+609,Ameno Himokaze No Himo,3.61,139,Kitaoji,京都府京都市北区紫野東野町6,Bread,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26018770/
+610,Kyo Unawa Hon Ten,3.61,138,Karasuma,京都府京都市中京区八百屋町553-2,"Unagi (Eel), Japanese Cuisine, Seafood","JPY 4,000～JPY 4,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26034563/
+611,Sakenonki Bingo,3.61,137,Karasuma,京都府京都市中京区西錦小路266,Izakaya (Tavern),-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26035047/
+612,Nijou Aritsune,3.61,124,Kyoto Shiyakusho Mae,京都府京都市中京区二条寺町西入丁子屋町694-3,"Japanese Cuisine, Izakaya (Tavern)",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26026084/
+613,Comme Toujours,3.61,124,Kitaoji,京都府京都市北区小山元町50-1,"Cake, Bread",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26001682/
+614,Gion Yuyama,3.61,118,Higashiyama,京都府京都市東山区新橋通り花見小路東入 ルアートハイツ1F,Japanese Cuisine,"JPY 5,000～JPY 5,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26002661/
+615,Oryouri Tatsumura,3.61,114,Gion Shijo,京都府京都市下京区船頭町197 1F,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26022552/
+616,Ba Ke Ya Bekkan,3.61,106,Kyoto Shiyakusho Mae,京都府中京区麩屋町通三条上ル下白山町297,Bar,-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26018349/
+617,Hata kaku,3.61,105,Kuramaguchi,京都府京都市上京区上御霊前通鳥丸西入内構町430,"Japanese Cuisine, Hot Pot, Seafood","JPY 4,000～JPY 4,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260503/26001522/
+618,Lino,3.61,104,Karasuma Oike,京都府京都市中京区上妙覚寺町230-2 秋山法衣ビル1F,"Italian, Pasta, Wine bar","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26029038/
+619,Murasakino Wakuden Daitokuji Ten,3.61,98,Kitaoji,京都府京都市北区紫野雲林院町28,"Bento (Lunch box), Japanese Cuisine, Japanese sweets",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260503/26001667/
+620,Matono,3.61,87,Gion Shijo,京都府京都市東山区高台寺北門前通下河原東入ル鷲尾町501,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26000391/
+621,Nikuya Kinoe Kyoto Nishiki Ten,3.61,84,Karasuma,京都府京都市中京区十文字町455-2,"Yakiniku (BBQ Beef), Steak, Japanese Cuisine",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26032599/
+622,cafe de corazon,3.61,79,Imadegawa,京都府京都市上京区革堂町593-15,Cafe,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26022566/
+623,Nanzenji Sandou Kikusui,3.61,75,Keage,京都府京都市左京区南禅寺福地町31,"Ryokan, Japanese Cuisine, French","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26028346/
+624,Naka Ichi,3.61,72,Gion Shijo,京都府京都市東山区祇園町南側570-196,"Sushi, Japanese Cuisine",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26001409/
+625,Iru Chipuresso Gion,3.61,70,Gion Shijo,京都府京都市東山区祇園町南側566,Italian,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26025920/
+626,Gion Daishouen,3.61,58,Gion Shijo,京都府京都市東山区博多町63-1,Yakiniku (BBQ Beef),-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26038045/
+627,Daishou en,3.61,53,Hanazono,京都府京都市右京区花園伊町44-10 花園ビル,Yakiniku (BBQ Beef),-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260402/26032935/
+628,Tsujimasa,3.61,52,Chushojima,京都府京都市伏見区南浜町260,"Japanese Cuisine, Fugu (Pufferfish)",-,-,https://tabelog.com/en/kyoto/A2601/A260601/26013203/
+629,Nakamura,3.61,51,Gion Shijo,京都府京都市東山区縄手通新橋下る弁財天町13番地1 祇園ホワイトビル2F,"Meat dishes, Chicken dishes, Vegetable dishes",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26018771/
+630,Horumon Tonkin,3.61,50,Mototanaka,京都府京都市左京区田中西大久保町14-5,"Horumon (BBQ Offel), Grilled tripe",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260302/26019010/
+631,Inoue,3.61,49,Saga Arashiyama,京都府京都市右京区嵯峨天龍寺車道町18,"Izakaya (Tavern), Japanese Cuisine",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260403/26017204/
+632,Gion Danbata,3.61,37,Gion Shijo,京都府京都市東山区祇園町南側570-128,"Innovative, French, Italian","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26031239/
+633,Kuzushi Yoshiyoshi,3.61,33,Gion Shijo,京都府京都市東山区祇園町北側347-67 第五雅会館 1F,Japanese Cuisine,"JPY 5,000～JPY 5,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26022161/
+634,L'Astre,3.61,27,Gakken Nara Tomigaoka,京都府相楽郡精華町光台4-2-2,French,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2607/A260705/26022916/
+635,Yokoi,3.61,27,Gojo,京都府京都市下京区万寿寺中之町88,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26040461/
+636,Senda,3.61,24,Kitano Hakubaicho,京都府京都市上京区紙屋川町1038-16,"Japanese Cuisine, Unagi (Eel)","JPY 5,000～JPY 5,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260501/26038342/
+637,La Biographie,3.61,18,Nijo,京都府京都市上京区田中町422-1,French,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260203/26036019/
+638,Maeda Kohi Muromachi Honten,3.60,899,Karasuma,京都府京都市中京区蛸薬師通烏丸西入橋弁慶町236,"Traditional Café, Cafe, Shaved ice (snow cone)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26001559/
+639,Le Petit Mec Imadegawa Ten,3.60,710,Imadegawa,京都府京都市上京区今出川通大宮西入ル元北小路町159 大晋メゾネ西陣今出川 1F,"Bread, Sweets , Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26000210/
+640,tokusei raamen dai chuu Hon Ten,3.60,671,Momoyamagoryomae,京都府京都市伏見区観音寺町高架下217,"Ramen, Dumplings",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260601/26000035/
+641,Kyo no Kome Ryotei Hachidaime Gihee,3.60,601,Gion Shijo,京都府京都市東山区祇園町北側296,Japanese Cuisine,"JPY 2,000～JPY 2,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26014418/
+642,Sweets Cafe KYOTO KEIZO,3.60,484,Nijojo Mae,京都府京都市中京区御供町293,"Cafe, Cake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260203/26027246/
+643,Yakiyasai Isoya,3.60,351,Kyoto Shiyakusho Mae,京都府京都市中京区木屋町通御池下ル下丸屋町421-5 ラディーチェ・マツヤビル 1F,"Vegetable dishes, Teppanyaki",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26005043/
+644,Zenka Shouin Kyoto Muromachi Honten,3.60,334,Karasuma Oike,京都府京都市中京区室町通二条下ル蛸薬師町271-1,"Cafe, Japanese sweets, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26013765/
+645,Torimatsu,3.60,283,Amino,京都府京丹後市網野町網野146 1F,"Japanese Cuisine, Sushi","JPY 3,000～JPY 3,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2609/A260903/26004388/
+646,LIBERTE PATISSERIE BOULANGERIE Kyobashi Ten,3.60,274,Karasuma,京都府京都市中京区東洞院通六角下る御射山町273 プラウド京都東洞院 1F,"Bread, Cake, Cafe","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26031295/
+647,Baikou dou,3.60,266,Tofukuji,京都府京都市東山区今熊野宝蔵町6,"Sweets, Pancake, Cafe",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260304/26001616/
+648,Menya Chakuriki,3.60,232,Yosano,京都府与謝郡与謝野町石川534-1,"Tsukemen, Ramen, Dumplings",-,～JPY 999,https://tabelog.com/en/kyoto/A2609/A260901/26007476/
+649,Lobby Lounge Za Rittsu Karuton Kyoto,3.60,218,Kyoto Shiyakusho Mae,京都府京都市中京区鴨川二条大橋畔 ザ・リッツ・カールトン京都 1F,Cafe,"JPY 5,000～JPY 5,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26023312/
+650,Annee,3.60,216,Karasuma Oike,京都府京都市中京区姉小路室町西入ル突抜町139 プリモフィオーレ 1F,"Cafe, Bread","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26024070/
+651,Yaoi so Shijoomiya Ten,3.60,209,Omiya,京都府京都市下京区四条大宮東入立中町488,"Sandwich, Other",-,-,https://tabelog.com/en/kyoto/A2601/A260203/26002044/
+652,Ko No Hana,3.60,202,Kitano Hakubaicho,京都府京都市上京区御前通今小路上ル馬喰町898,"Sweets, Shaved ice (snow cone), Japanese Cuisine","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260501/26004886/
+653,Shinise Meitem Bentou Ko-Na- Jei Aru Kyoto Isetan Ten,3.60,184,Kyoto,京都府京都市下京区烏丸通塩小路下ル東塩小路町 ジェイアール京都伊勢丹 B2F,"Bento (Lunch box), Sushi",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26022146/
+654,Bistro Meru,3.60,134,Gion Shijo,京都府京都市東山区祇園縄手新橋西側 SPACEしんばし１F,"Bistro, Italian, Steak",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26016531/
+655,Solono,3.60,133,Karasuma Oike,京都府京都市中京区新町姉小路東入ル町頭町90-3,"Pizza, Italian","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26019511/
+656,Tsuki mura,3.60,118,Kyoto Kawaramachi,京都府京都市下京区西木屋町四条下ル船頭町198,"Kamameshi, Japanese Cuisine",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26000079/
+657,Kikumasa,3.60,117,Gion Shijo,京都府京都市東山区八坂新地末吉町78,Japanese Cuisine,"JPY 2,000～JPY 2,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26000590/
+658,N'importe quoi,3.60,116,Karasuma,京都府京都市中京区堺町通錦小路上ル527-1,"Cake, Sweets",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26031303/
+659,Nihon Ryouri Kyouto Hanagoyomi,3.60,115,Yase Hieizanguchi,京都府京都市左京区八瀬野瀬町74-1 エクシブ京都　八瀬離宮,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260502/26006434/
+660,Ajidokoro Shin,3.60,114,Shijo,京都府京都市下京区綾小路高倉西入ル,"Izakaya (Tavern), Seafood",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26000818/
+661,Nishiki,3.60,110,Arashiyama,京都府京都市右京区 嵯峨嵐山中ノ島公園内,"Japanese Cuisine, Hot Pot","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260403/26001301/
+662,Obase,3.60,107,Kyoto Shiyakusho Mae,京都府京都市中京区河原町三条恵比須町534-39,"Innovative, Italian, Japanese Cuisine","JPY 8,000～JPY 9,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26025422/
+663,ryu no hige,3.60,107,Shijo,京都府京都市下京区大政所町678 ダイワロイネットホテル京都四条烏丸 1F,"French, Japanese Cuisine","JPY 4,000～JPY 4,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26037081/
+664,Nowhere man,3.60,104,Shijo,京都府京都市下京区葛籠屋町507-2,"Cake, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26032346/
+665,Hari Se,3.60,88,Kiyomizu Gojo,京都府京都市東山区大黒町通五条下ル袋町,Japanese Cuisine,"JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26000560/
+666,Kanga An,3.60,88,Kuramaguchi,京都府京都市北区烏丸通鞍馬口東入ル新御霊口町278,"Japanese Cuisine, Medicinal","JPY 5,000～JPY 5,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260503/26000619/
+667,"Arashiyama Daizen,",3.60,80,Randen Saga,京都府京都市右京区嵯峨伊勢ノ上町10-3,Sushi,"JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260403/26022843/
+668,Kasabianka,3.60,80,Demachiyanagi,京都府京都市上京区今出川通寺町西入ル大原口214,Italian,"JPY 1,000～JPY 1,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260302/26001025/
+669,Gion Gozukon,3.60,79,Sanjo Keihan,京都府京都市東山区新橋通花見小路東入ル2丁目橋本町417,"Seafood, Japanese Cuisine, Izakaya (Tavern)",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26000279/
+670,Fujiwara,3.60,71,Gion Shijo,京都府京都市東山区祇園花見小路富永町東入ル347-1 げんすけビル　１Ｆ,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26001379/
+671,Chuugokuryouri Saikaku,3.60,66,Marutamachi,京都府京都市中京区二条通堺町西入観音町76,Chinese,-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26022993/
+672,Machiya Shisen Hoshitsukiyo,3.60,59,Omiya,京都府京都市下京区油小路通仏光寺上ル風早町582,"Sichuan Cuisine, Chinese","JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260101/26026620/
+673,Junshin An,3.60,58,Kiyomizu Gojo,京都府京都市東山区松原通大和大路西入弓矢町24-1,"Steak, European, Yoshoku (Japanese style western cuisine)",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26001747/
+674,Kameya Norikatsu,3.60,51,Karasuma Oike,京都府京都市中京区堺町通三条上ル大阪材木町702,Japanese sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260202/26002396/
+675,Sakamoto,3.60,46,Gion Shijo,京都府京都市東山区祇園末吉町大和大路東入ル ＥＦビル　１Ｆ,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001419/
+676,Tsuneo,3.60,39,Gion Shijo,京都府京都市東山区八坂新地富永町123 花見会館 1F,"Japanese Cuisine, Wine bar",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26033866/
+677,FRENCH LE CHENE,3.60,39,Higashiyama,京都府京都市東山区八坂鳥居前東入円山町604 長楽館,French,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26006415/
+678,Shuten Nishikawa Yanagikoji Ten,3.60,38,Kyoto Kawaramachi,京都府京都市中京区中之町577 柳小路はちべえ長屋,"Izakaya (Tavern), Japanese Cuisine, Nihonshu (Japanese sake)",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26035163/
+679,Marumiya Tei,3.60,28,Tofukuji,京都府京都市南区東九条北松ノ木町13,"Yakiniku (BBQ Beef), Horumon (BBQ Offel)",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260101/26028561/
+680,Muromachi Yui,3.60,22,Karasuma Oike,京都府京都市中京区押小路通烏丸西入金吹町459,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26033257/
+681,Inaka No Taihou,3.60,17,-,京都府綾部市八津合町別当2-1 蓮ヶ峯農場,                            Chinese                          ,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2608/A260802/26037806/
+682,shimpuku saikan Hon Ten,3.59,3413,Kyoto,京都府京都市下京区東塩小路向畑町569,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26000791/
+683,Kyouto Gion Okaru,3.59,1056,Gion Shijo,京都府京都市東山区八坂新地富永町132,"Udon (Wheat noodles), Soba (Buckwheat noodles), Cafeteria","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26001282/
+684,hakata nagahama ramen miyoshi,3.59,914,Sanjo,京都府京都市中京区石屋町115 辻田ビル　１Ｆ,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260301/26000628/
+685,Kissa Soware,3.59,837,Kyoto Kawaramachi,京都府京都市下京区西木屋町四条上ル真町95,Traditional Café,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26000763/
+686,Tsukumo udon Shiokoji Honten,3.59,808,Kyoto,京都府京都市下京区烏丸通塩小路下ル東塩小路町901 JR京都駅構内地下2F東口,"Udon (Wheat noodles), Izakaya (Tavern)",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26031063/
+687,Tou dai Kyobashi Ten,3.59,746,Kyoto,京都府京都市下京区烏丸通塩小路下ル東塩小路町901 京都駅ビル10Ｆ　京都拉麺小路内,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26014547/
+688,Deza-To Kafe Chou Rakukan,3.59,514,Higashiyama,京都府京都市東山区八坂鳥居前東入円山町604 長楽館,"Cafe, Cake","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26006416/
+689,Shomin Shijoomiya Ten,3.59,471,Omiya,京都府京都市下京区四条大宮町18-6,"Stand Bar, Izakaya (Tavern), Seafood","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26023083/
+690,Beru Ameru Kyouto Bettei,3.59,453,Karasuma Oike,京都府京都市中京区三条通堺町東入ル北側桝屋町66,"Chocolate, Cafe, Cake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26026207/
+691,Shimizu Ippouen Kafe Kyotohonten,3.59,405,Shichijo,京都府京都市東山区本瓦町665,"Cafe, Sweets, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260304/26019984/
+692,Tsukeyasai Isoizumu,3.59,390,Kyoto,京都府京都市下京区七条通烏西入中居町114,Creative,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260101/26027678/
+693,SONGBIRD COFFEE,3.59,343,Nijojo Mae,京都府京都市中京区竹屋町通堀川東入西竹屋町529 SONGBIRD DESIGN STORE. 2F,"Cafe, Curry","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26013578/
+694,Chuukasoba Roku,3.59,338,Kyoto Kawaramachi,京都府京都市下京区河原町通四条下ル2丁目稲荷町318-6 GOOD NATURE STATION 2F,"Ramen, Chinese","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26034994/
+695,Shimpa Chi Chaya,3.59,315,Arashiyama,京都府京都市右京区嵯峨天龍寺造路町37-17,"Gelato,Ice cream, Cafe",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260403/26001309/
+696,SUGITORA,3.59,269,Kyoto Kawaramachi,京都府京都市中京区中筋町488-15,"Cafe, Sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26028747/
+697,BLUE FIR TREE,3.59,249,Gion Shijo,京都府京都市東山区大和大路通四条下ル大和町6-1 日宝モア祇園 1F,"Cafe, Bar, Pancake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26005614/
+698,Yougashi Giwon Sakai,3.59,244,Gion Shijo,京都府京都市東山区祇園町南側570-122,"Cake, Cafe","JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26016359/
+699,Doughnut Cafe nicotto & mam Karasuma Oike Ten,3.59,225,Karasuma Oike,京都府京都市中京区車屋町通押小路上ル,"Donut, Sweets , Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26014921/
+700,Okazuya Ishikawa,3.59,209,Karasuma,京都府京都市下京区高倉通四条下ル高材木町221-2,Japanese Cuisine,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26005542/
+701,Kushi tanaka,3.59,199,Karasuma,京都府京都市中京区錦小路通烏丸西入ル下ル占出山町310-10,"Kushi-age (Deep-fried skewers), Izakaya (Tavern), Japanese Cuisine",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26000207/
+702,petit japonais,3.59,178,Shijo,京都府京都市下京区東洞院仏光寺下ル高橋町605-2,"Cake, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26002628/
+703,CICON by NOHGA HOTEL,3.59,133,Kiyomizu Gojo,京都府京都市東山区五条橋東4-450-1 NOHGA HOTEL 1F,"Italian, Pasta, Dining bar","JPY 2,000～JPY 2,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26037084/
+704,Sakura Ba,3.59,105,Kiyomizu Gojo,京都府京都市東山区大和大路通五条上ル山崎町376,"Izakaya (Tavern), Seafood",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26006086/
+705,Anchor Kyoto,3.59,96,Kyoto Kawaramachi,京都府京都市中京区蛸薬師通河原町東入備前島町310-2 ザ・ゲートホテル京都高瀬川 by HULIC 8F,Restaurants,"JPY 2,000～JPY 2,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26034514/
+706,Torein Torein,3.59,88,Kyoto Shiyakusho Mae,京都府京都市中京区海老屋町327,"Izakaya (Tavern), Baru (Spanish style bar), Wine bar","JPY 1,000～JPY 1,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26037191/
+707,PAUL BOCUSE Daimaru Kyobashi Ten,3.59,84,Karasuma,京都府京都市下京区四条通高倉西入ル立売西町79 大丸京都店 B1F,"Bread, Bagel",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26018546/
+708,Oito,3.59,80,Gion Shijo,京都府京都市東山区祇園町北側253,"Oden, Japanese Cuisine",-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26001727/
+709,Fiori suka,3.59,77,Karasuma Oike,京都府京都市中京区高倉二条下ル瓦町545 アビリティ高倉 1F,Italian,"JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26021074/
+710,arancino KYOTO,3.59,76,Kyoto Shiyakusho Mae,京都府京都市中京区一之船入町537-9 京都福住ビル 1F,"Italian, Wine bar, Pasta","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26033370/
+711,Yakiniku Gyusho Shin,3.59,69,Gion Shijo,京都府京都市東山区末吉町95-5,"Yakiniku (BBQ Beef), Japanese Cuisine, Beef dishes","JPY 2,000～JPY 2,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26036119/
+712,Renraku sen,3.59,66,Sanjo,京都府京都市中京区河原町通三条東入中島町105,"Beef dishes, Steak",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26010371/
+713,Azuma zushi,3.59,64,Shichijo,京都府京都市東山区正面通本町西入ル,Sushi,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260304/26004618/
+714,Sakana Ryori Agiyao,3.59,58,Gojo,京都府京都市下京区東洞院通五条上ル深草町592-3 2F,"Seafood, Japanese Cuisine, Izakaya (Tavern)","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26006073/
+715,Ippin Ryouri Takakura,3.59,56,Kyoto Shiyakusho Mae,京都府京都市中京区夷川通河原町西入西革堂町205 １Ｆ,Japanese Cuisine,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260202/26018131/
+716,Kyoto Sashimi Maru,3.59,51,Kiyomizu Gojo,京都府京都市下京区石不動之町682-7 もみじの小路S-3,"Izakaya (Tavern), Seafood, Tempura",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26033213/
+717,Joukoya,3.59,50,Karasuma,京都府京都市中京区西洞院蛸薬師下ル古西町427,"Izakaya (Tavern), Seafood, Hot Pot",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26028029/
+718,PORTA ROSSA,3.59,46,Kuzuha,京都府八幡市男山長沢23-9 101,"Italian, Pasta","JPY 3,000～JPY 3,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2607/A260702/26006767/
+719,Nakae,3.59,44,Tambaguchi,京都府京都市下京区西七条赤社町32,"Izakaya (Tavern), Japanese Cuisine, Noodles",～JPY 999,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260203/26010910/
+720,Hotel De Ogawa,3.59,34,Gion Shijo,京都府京都市下京区西木屋町通四条下る船頭町230,Izakaya (Tavern),-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26041273/
+721,an peiji,3.59,30,Fushimi,京都府京都市伏見区中島樋ノ上町56,French,"JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260601/26029073/
+722,Restaurant DA CIRO,3.59,23,Gion Shijo,京都府京都市東山区祇園町北側266 井澤ビル 5F,"Italian, Innovative","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26038918/
+723,dashiryo jifu,3.59,22,Ichijoji,京都府京都市左京区一乗寺樋之口町27 コーポラス禅 1F,Noodles,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260303/26035446/
+724,Miyagawachou Hotta,3.59,21,Kiyomizu Gojo,京都府京都市東山区宮川筋6-359-4,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26039499/
+725,Namae No Nai Ramen Ya,3.58,754,Sanjo,京都府京都市中京区恵比須町534-31 CEO木屋町ビル B1F,"Ramen, Tsukemen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26026032/
+726,Menshou Ichiryuu Mambai Kawaramachi Ten,3.58,485,Sanjo,京都府京都市中京区大黒町71 ワールド会館 1F,"Ramen, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260301/26033041/
+727,Ramen Fuji Kyotohonten,3.58,480,Jujo,京都府京都市南区東九条南石田町111-1,"Ramen, Dumplings",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260604/26002300/
+728,kyouto senmaru shakariki murasaki,3.58,457,Kyoto,京都府京都市下京区烏丸通七条下る東塩小路町721-1 京都タワービル B1F,Ramen,"JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26028816/
+729,Sagano Yu,3.58,456,Randen Saga,京都府京都市右京区嵯峨天龍寺今堀町4-3,"Cafe, Pancake, Pasta","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260403/26005250/
+730,Chuukasoba Masutani Kitashirakawa Betto Ten,3.58,448,Mototanaka,京都府京都市左京区北白川久保田町26,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26001839/
+731,Kisshou Karyou Gionhonten,3.58,448,Higashiyama,京都府京都市東山区石橋町306,"Cafe, Sweets","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26025412/
+732,Arabika Kyouto Arashiyama Arashiyama,3.58,429,Arashiyama,京都府京都市右京区嵯峨天龍寺芒ノ馬場町3-47,Coffee Stand,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260403/26025913/
+733,Ramen Sou Chikyuukibo De Kangaero,3.58,424,Fushimi,京都府京都市伏見区撞木町1153-9,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260601/26009396/
+734,Ramen Hi Ha Mata Noboru Fushiminariekimaehonten,3.58,418,Fushimi Inari,京都府京都市伏見区深草一ノ坪38-15,"Ramen, Kara-age (Deep-fried chicken), Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260601/26026153/
+735,Ra-Men Daiei Hon Ten,3.58,412,Kujo,京都府京都市南区東九条西明田町20,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26003542/
+736,cafe marble  Bukkojiten,3.58,347,Shijo,京都府京都市下京区仏光寺通高倉東入ル西前町378,"Traditional Café, Cake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26005355/
+737,CAFE KOCSI,3.58,311,Kyoto Shiyakusho Mae,京都府京都市中京区福長町123 黄瀬ビル 2F,"Bread, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26000167/
+738,Kaden Kyouame Gion Koishi Gionhonten,3.58,308,Gion Shijo,京都府京都市東山区祇園町北側 286-2,"Japanese sweets, Shaved ice (snow cone), Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26006689/
+739,Kyouhyouka Tsurara,3.58,285,Nijo,京都府京都市中京区西ノ京内畑町22,Shaved ice (snow cone),"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260203/26032721/
+740,Saryou Suisen Takatsuji Honten,3.58,279,Shijo,京都府京都市下京区高辻通東洞院東入稲荷町521 京都高辻ビル 1F,Sweets,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26020625/
+741,Ra-Men Soubou Pako,3.58,278,Nishikyogoku,京都府京都市右京区西院六反田町31-6,"Ramen, Tsukemen, Dumplings",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260401/26001736/
+742,OGAWA COFFEE  Kyotoekiten,3.58,270,Kyoto,京都府京都市下京区東塩小路町地下鉄京都駅 コトチカ京都,"Cafe, Traditional Café",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26021764/
+743,Sumibi to Wine Kyoto Ekimae Ten,3.58,251,Kyoto,京都府京都市下京区飴屋町241-1,"Baru (Spanish style bar), Italian",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260101/26028219/
+744,Kaikado Cafe,3.58,248,Shichijo,京都府京都市下京区河原町通七条上ル住吉町352,Cafe,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26027350/
+745,Castella do Paulo,3.58,224,Kitano Hakubaicho,京都府京都市上京区馬喰町897 蔵A,"Cafe, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260501/26025402/
+746,Tokotonto Rikotokoto,3.58,216,Toji,京都府京都市南区西九条比永城町26-2,Ramen,～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260604/26035366/
+747,Kissa Zou,3.58,213,Imadegawa,京都府京都市上京区三丁町440-3,Traditional Café,～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260202/26032251/
+748,Roan Kikunoi Kiyamachi Ten,3.58,196,Gion Shijo,京都府京都市下京区木屋町通四条下ル斉藤町118,Japanese Cuisine,"JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26000766/
+749,Sakeno Ateya Jijibaba,3.58,194,Kyoto,京都府京都市下京区七条通烏丸西入ル東境町180 リド飲食街内,"Dining bar, Creative, Izakaya (Tavern)",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260101/26004778/
+750,Chocolaterie HISASHI,3.58,187,Higashiyama,京都府京都市東山区夷町166-16,Chocolate,-,-,https://tabelog.com/en/kyoto/A2601/A260301/26030624/
+751,Nakagawa Shokudou,3.58,182,Takeda,京都府京都市伏見区竹田中内畑町171 第2コーポ森崎 1F,"Chinese, Ramen, Izakaya (Tavern)",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260601/26034311/
+752,Cafe ARRIETTY,3.58,176,Shichijo,京都府京都市東山区妙法院前側町451-1,"Cafe, Curry, Pancake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260304/26023351/
+753,Kyoryori Kiyojirou,3.58,172,Nijojo Mae,京都府京都市中京区宗林町92,Japanese Cuisine,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26017844/
+754,NAKAMURA GENERAL STORE,3.58,164,Karasuma Oike,京都府京都市中京区室町押小路西入ル蛸薬師町293-1,Sweets,-,-,https://tabelog.com/en/kyoto/A2601/A260202/26021739/
+755,Gion Nikutei Shin,3.58,158,Gion Shijo,京都府京都市東山区新橋通大和大路東入二丁目清本町366-2,"Beef dishes, Japanese Cuisine, Steak","JPY 2,000～JPY 2,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26033192/
+756,Cave de K,3.58,144,Kyoto Shiyakusho Mae,京都府京都市中京区木屋町二条東入ル ヴァルズビル1F,"Wine bar, Pancake",-,-,https://tabelog.com/en/kyoto/A2601/A260202/26023531/
+757,cafe LEC COURT,3.58,136,Kyoto Shiyakusho Mae,京都府京都市中京区河原町二条南入ル一之船入町53 京都ホテルオークラ　１Ｆ,"Cafe, European, Side dishes, Delicatessen","JPY 3,000～JPY 3,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26001501/
+758,Shigetsu,3.58,122,Arashiyama Torokko Station,京都府京都市右京区嵯峨天龍寺芒ノ馬場町68,Japanese Cuisine,"JPY 3,000～JPY 3,999",-,https://tabelog.com/en/kyoto/A2601/A260403/26000923/
+759,To,3.58,107,Karasuma Oike,京都府京都市中京区御池高田町500 ポポラーレ御池 1F,"Izakaya (Tavern), Creative",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26033783/
+760,Sobashubou Ichii,3.58,95,Kitano Hakubaicho,京都府京都市北区平野宮西町62,"Izakaya (Tavern), Soba (Buckwheat noodles), Tempura","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260501/26026908/
+761,KIZAHASHI,3.58,83,Kyoto,京都府京都市下京区東塩小路町680 THE THOUSAND KYOTO 2F,Japanese Cuisine,"JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26031800/
+762,Teuchi Soba Fujimura,3.58,82,Nagitsuji,京都府京都市山科区東野舞台町38-4,Soba (Buckwheat noodles),"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260603/26029187/
+763,Kyouryouri Irifune,3.58,82,Kyoto Shiyakusho Mae,京都府京都市中京区河原町二条南入ル一之船入町537-4 ホテルオークラ京都 6F,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260203/26001499/
+764,Ouchi Kappou Ayatomi,3.58,78,Kyoto Kawaramachi,京都府京都市下京区綾小路通富小路東入ル塩屋町68,Japanese Cuisine,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26027169/
+765,Mescita Pane e Vino,3.58,75,Karasuma,京都府京都市中京区錦小路室町西入る天神山町277 K−an 1F,"Italian, Steak, Dining bar",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26025955/
+766,Shunkashuutou Zakoya,3.58,69,Karasuma Oike,京都府京都府京都市中京区東洞院三条下ル三文字町200 ミックナカムラ 2Ｆ,"Japanese Cuisine, Seafood","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26029159/
+767,Usuya,3.58,68,Nijojo Mae,京都府京都市中京区三条通大宮西入上瓦町58,"Japanese Cuisine, Unagi (Eel)","JPY 2,000～JPY 2,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260203/26026200/
+768,Ryoriya Jizai,3.58,65,Kyoto Shiyakusho Mae,京都府京都市中京区三条通富小路西入ル中之町12-3,"Creative, Teppanyaki, Steak","JPY 3,000～JPY 3,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26034204/
+769,Osteria Sempre,3.58,35,Kyoto Kawaramachi,京都府京都市中京区坂井町458-2,Italian,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26026681/
+770,En,3.58,35,Imadegawa,京都府京都市上京区烏丸一条下ル龍前町589,"Japanese Cuisine, Creative","JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26000475/
+771,masion de charcuterie M,3.58,33,Higashiyama,京都府京都市左京区岡崎円勝寺町91-66,"Side dishes, Delicatessen, French",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260301/26037909/
+772,Sincronia di Shinji Harada,3.58,32,Karasuma Oike,京都府京都市中京区東洞院通御池上ル船屋町420 ザ ロイヤルパークホテル アイコニック 京都 1F,Italian,"JPY 4,000～JPY 4,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26037374/
+773,Gion Yamagishi,3.58,31,Gion Shijo,京都府京都市東山区祇園町南側570-154,"Japanese Cuisine, Seafood, Tempura","JPY 5,000～JPY 5,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26039228/
+774,Daishime,3.58,26,Umekoji Kyotonishi,京都府京都市下京区朱雀宝蔵町44,"Seafood, Izakaya (Tavern)",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260203/26033421/
+775,Kyouto Sanjou Yamahei,3.58,26,Nijojo Mae,京都府京都市中京区三条油小路西入ル橋東詰町27,"Japanese Cuisine, French","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260203/26032625/
+776,Minoriko,3.58,25,Karasuma Oike,京都府京都市中京区押小路通衣棚西入上妙覚寺町208-6,"Japanese Cuisine, Nihonshu (Japanese sake)",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26027598/
+777,Yasashisa Ooshima,3.58,18,Karasuma,京都府京都市中京区西洞院通蛸薬師下ル古西町431,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26031230/
+778,Nakamura Toukichi Honten Uji Honten,3.57,1321,Uji,京都府宇治市宇治壱番10,"Sweets, Cafe, Noodles","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2607/A260701/26000722/
+779,Itou Kyuuemon Uji Honten,3.57,1052,Uji,京都府宇治市莵道荒槇19-3,"Sweets, Soba (Buckwheat noodles), Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2607/A260701/26002107/
+780,Hashitate,3.57,999,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 JR西口改札前イートパラダイス,"Japanese Cuisine, Donburi (Rice bowl), Noodles","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260101/26006654/
+781,Saryou Tsujiri Gionhonten,3.57,927,Gion Shijo,京都府京都市東山区四条通祇園町南側573-3 祇園辻利本店 2F・3F,"Sweets, Cafe, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26000408/
+782,Spring Valley Brewery Kyoto,3.57,644,Kyoto Kawaramachi,京都府京都市中京区富小路通錦小路上る高宮町587-2,"Beer bar, Italian, Izakaya (Tavern)","JPY 2,000～JPY 2,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26029396/
+783,Taihou Ramen Kiyamachi Ten,3.57,505,Sanjo,京都府京都市中京区木屋町通四条上ル下樵木町191-11,Ramen,-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26002177/
+784,GRILL DEMI,3.57,453,Marutamachi,京都府京都市中京区両替町夷川通室町東入ル巴町80 パルマビル　１Ｆ,"Hamburger steak, Yoshoku (Japanese style western cuisine), Bento (Lunch box)",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26002516/
+785,Bishiya,3.57,428,Ichijoji,京都府京都市左京区一乗寺東杉ノ宮町18-1 杉ノ宮ビル1F,"Ramen, Tsukemen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26019351/
+786,% ARABICA Kyoto  Higashiyama Higashiyama,3.57,413,Gion Shijo,京都府京都市東山区星野町87-5,Coffee Stand,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260301/26024353/
+787,Sabou Hanbee,3.57,409,Kiyomizu Gojo,京都府京都市東山区問屋通五条下ル上人町433,"Tofu dishes, Japanese Cuisine, Sweets","JPY 4,000～JPY 4,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26001283/
+788,Gion Yorozuya,3.57,384,Gion Shijo,京都府京都市東山区花見小路四条下ル二筋目西入ル小松町555-1,"Udon (Wheat noodles), Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26000254/
+789,Tantan Shijo Honten,3.57,377,Shijo Omiya,京都府京都市中京区四条通千本西入ル壬生花井町23 ファミール四条　１Ｆ,Dandan noodles,"JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260203/26002025/
+790,HARE SORA,3.57,275,Nijo,京都府京都市中京区西ノ京永本町23-20,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260203/26027734/
+791,Arashiyama Sakuramochi Ine,3.57,271,Arashiyama,京都府京都市右京区嵯峨天龍寺造路町19,"Sweets, Japanese sweets, Gelato,Ice cream",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260403/26001306/
+792,FUKUNAGA 901,3.57,255,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路901 京都駅ビル内 8F,Cafe,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26030973/
+793,SANSHIKI,3.57,252,Kiyomizu Gojo,京都府京都市東山区五条橋東2-9-4,"Udon (Wheat noodles), Tempura","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260301/26023919/
+794,Sango kushi,3.57,234,Mimurodo,京都府宇治市莵道丸山1-116,"Dandan noodles, Sichuan Cuisine, Ramen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2607/A260701/26021628/
+795,Seabura No Kami Sura-Pu,3.57,222,Karasuma Oike,京都府京都市中京区菱屋町33 珠光ビル三条 1F,"Ramen, Tsukemen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26035079/
+796,SIZUYA PAN Kyotoekiten,3.57,222,Kyoto,京都府京都市下京区東塩小路高倉町8-3 JR京都アスティロード 1Ｆ,Bread,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26022799/
+797,RAU,3.57,218,Kyoto Kawaramachi,京都府京都市下京区河原町四条下ル2稲荷町318-6 GOOD NATURE STATION 1F,"Cake, Chocolate, Bread","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26033441/
+798,Gebekken,3.57,212,Fujinomori,京都府伏見区深草西浦町6-70,"Cafe, Bread, Baumkuchen",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260601/26020680/
+799,Goken Uiro Hon Ten,3.57,208,Kiyomizu Gojo,京都府京都市東山区五条橋東2丁目18番地1,"Japanese sweets, Traditional Café",-,-,https://tabelog.com/en/kyoto/A2601/A260201/26002644/
+800,Kamogawa Kafe,3.57,205,Jingu Marutamachi,京都府京都市上京区西三本木通荒神口下ル上生洲町229-1,Cafe,～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260302/26001895/
+801,Shutei Bankara,3.57,201,Gion Shijo,京都府京都市中京区先斗町通四条上ル鍋屋町209-8,"Izakaya (Tavern), Seafood",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26014775/
+802,Muraki,3.57,192,Saiin,京都府京都市右京区西院平町5-1,Soba (Buckwheat noodles),"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260401/26005485/
+803,Kuma no Yakitori Gion Shirakawa,3.57,168,Gion Shijo,京都府京都市東山区元吉町70-14,"Yakitori (Grilled chicken skewers), Izakaya (Tavern), Japanese Cuisine","JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26032072/
+804,Saikan Un,3.57,168,Katabiranotsuji,京都府京都市右京区太秦堀ケ内町32-2,"Chinese, Dim sum",-,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260402/26005945/
+805,Pan O Seguru,3.57,163,Kizu,京都府木津川市木津川原田35-7,"Bread, Sandwich, Cake",-,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260705/26006224/
+806,Ryuu Mon Hon Ten,3.57,157,Sanjo Keihan,京都府京都市東山区三条通東大路西入ル北側,"Sichuan Cuisine, Chinese, Dim sum",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26002261/
+807,Sukiyaki Iroha Kita Ten,3.57,149,Gion Shijo,京都府京都市中京区先斗町四条上ル鍋屋町215,"Sukiyaki, Japanese Cuisine",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26002605/
+808,Kyou Yakiniku Hiro Sattomachi Bettei,3.57,133,Sanjo,京都府京都市中京区木屋町通三条下る材木町176-1,Yakiniku (BBQ Beef),-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26003250/
+809,Noto No Jou Inafusa Yasukane,3.57,132,Uji,京都府宇治市宇治蓮華11,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2607/A260701/26006026/
+810,Bar agiyao,3.57,130,Gojo,京都府京都市下京区東洞院通五条上ル深草町592-3 1F,"Baru (Spanish style bar), Seafood, Seafood","JPY 8,000～JPY 9,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26023262/
+811,Kameya Kiyonaga,3.57,127,Gion Shijo,京都府京都市東山区祇園石段下南側534,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260301/26005883/
+812,Teppan Yaki,3.57,122,Kyoto,京都府京都市下京区烏丸通塩小路下ル ＪＲ京都駅中央口 ホテルグランヴィア京都 15F,"Teppanyaki, Steak","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260101/26001952/
+813,SAVORY,3.57,118,Karasuma Oike,京都府京都市中京区東洞院通三条下る三文字町220 八百一本館 3F,"French, Steak","JPY 2,000～JPY 2,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26022236/
+814,Kaderu Viare,3.57,106,Nijo,京都府京都市中京区西ノ京千本三条西入ル北側,"Italian, Vegetable dishes","JPY 2,000～JPY 2,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260203/26001159/
+815,Katsu Zen,3.57,100,Kitayama,京都府京都市北区上賀茂岩ケ垣内町89-1,Tonkatsu (Pork cutlet),"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260503/26005303/
+816,Gion Uemori,3.57,97,Gion Shijo,京都府京都市東山区祇園町南側570-6,Japanese Cuisine,"JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260301/26005252/
+817,Rufu ju,3.57,95,Gion Shijo,京都府京都市下京区木屋町四条下ル斎藤町138-3 1F～2F,"French, Baru (Spanish style bar), Bistro","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26019760/
+818,Nikuya Kagura,3.57,90,Karasuma Oike,京都府京都市中京区室町通押し小路下る御池之町309,"Yakiniku (BBQ Beef), Japanese Cuisine",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26020065/
+819,Juujou Hayashi,3.57,89,Jujo,京都府京都市南区東九条柳下町17,"Yakiniku (BBQ Beef), Horumon (BBQ Offel)",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260604/26002272/
+820,Uo saburou,3.57,82,Fushimi Momoyama,京都府京都市伏見区京町3丁目187,"Japanese Cuisine, Hot Pot","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260601/26001211/
+821,AssietteDessert mikan,3.57,80,Kyoto Shiyakusho Mae,京都府京都市中京区御幸町通夷川上る松本町583-1 フォルム御幸町 1F,"Cake, Cafe","JPY 6,000～JPY 7,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26029734/
+822,Mambo Hanten,3.57,80,Sai,京都府京都市中京区壬生西桧町11,Chinese,～JPY 999,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260401/26022526/
+823,Gion Nawate Tori Yasu,3.57,76,Gion Shijo,京都府京都市東山区祇園縄手通新橋上ル西側,"Mizutaki, Chicken dishes, Sukiyaki",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26002442/
+824,Sui ren,3.57,74,Nijo,京都府京都市中京区西ノ京職司町76,Chinese,"JPY 3,000～JPY 3,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26005971/
+825,Byu Ando Dainingu Kotoshieru,3.57,70,Kyoto,京都府京都市下京区烏丸通塩小路下ル東塩小路町901 京都駅ビル,"French, Italian","JPY 4,000～JPY 4,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260101/26028505/
+826,Eitarouya,3.57,70,Karasuma Oike,京都府京都市中京区御池通室町東入ル龍池町448,"Japanese Cuisine, Izakaya (Tavern)",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26000459/
+827,Ki to kito,3.57,66,Gion Shijo,京都府京都市下京区四条通小橋西入真町90-6,"Seafood, Izakaya (Tavern), Japanese Cuisine",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26021843/
+828,Ichi en sou,3.57,64,Shijo Omiya,京都府京都市中京区壬生相合町54-4,"Izakaya (Tavern), Seafood",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260203/26011469/
+829,Aki hana,3.57,61,Ichijoji,京都府京都市左京区一乗寺樋ノ口町27 コーポラス禅 1F,Chinese,"JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260303/26033101/
+830,Kushiage Semmon Ten Kotetsu,3.57,58,Gion Shijo,京都府京都市下京区船頭町232-2 1F,"Kushi-age (Deep-fried skewers), Izakaya (Tavern)",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260201/26020610/
+831,Shunsai Sakuya,3.57,52,Imadegawa,京都府京都市上京区元北小路町176,Japanese Cuisine,-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26015300/
+832,Synager,3.57,31,Marutamachi,京都府京都市中京区東洞院二条上ル壺屋町512-2,"French, Italian, Innovative","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26036071/
+833,Kappou Yoshizen,3.57,30,Gion Shijo,京都府京都市東山区祇園下河原高台寺北門前通東入ル鷲尾町503-14,Japanese Cuisine,"JPY 15,000～JPY 19,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26000269/
+834,ATSUTSU,3.57,29,Kiyomizu Gojo,京都府京都市東山区新宮川筋松原下ル西御門458 メゾン･ド･ヒロ 1F,"Okonomiyaki (Japanese savory pancake), Teppanyaki, Izakaya (Tavern)",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26033381/
+835,Enu Gion Sanjugo Do,3.57,25,Gion Shijo,京都府京都市東山区清本町375-2 る主水ビル 2F,"Innovative, Sushi, Spain","JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26033945/
+836,Trattoria Annamaria,3.57,24,Kiyomizu Gojo,京都府京都市東山区下馬町491 アースコート清水 1F,"Italian, Pasta","JPY 2,000～JPY 2,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26040148/
+837,Masaki,3.57,23,Nijo,京都府京都市中京区壬生馬場町15-20,Japanese Cuisine,"JPY 8,000～JPY 9,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260203/26027204/
+838,Ikko N Uehara,3.57,22,Kuramaguchi,京都府京都市北区鞍馬口通室町東入ル上御霊上江町232-9,Japanese Cuisine,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260503/26032840/
+839,Raku zan,3.57,20,Gion Shijo,京都府京都市東山区富永町109-2,Japanese Cuisine,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26015952/
+840,est pizzeria e trattoria GION,3.57,20,Gion Shijo,京都府京都市東山区祇園町北側347-147 1F,"Italian, Pizza, Pasta","JPY 3,000～JPY 3,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26035030/
+841,Mizu no,3.57,15,Sanjo Keihan,京都府京都市東山区新門前通花見小路東入二丁目中之町245-2,Japanese Cuisine,"JPY 20,000～JPY 29,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26040003/
+842,restaurant library the hotel seiryu,3.57,14,Gion Shijo,京都府京都市東山区清水2-204-2 THE HOTEL SEIRYU 2F,Restaurants,"JPY 5,000～JPY 5,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26035459/
+843,Nikun Chu,3.57,10,Gojo,京都府京都市下京区高倉通り五条上ル亀屋町172 湯浅会館,Yakiniku (BBQ Beef),-,-,https://tabelog.com/en/kyoto/A2601/A260201/26040916/
+844,Nakamura Toukichi Honten Kyotoekiten,3.56,1141,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町 ジェイアール京都伊勢丹 JR西口改札前イートパラダイス 3F,"Sweets, Cafe, Noodles","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26005903/
+845,Daikoku Ramen Hon Ten,3.56,555,Momoyamagoryomae,京都府京都市伏見区京町大黒町118,"Ramen, Chinese",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260601/26003217/
+846,Nakamura Shouten Kyoto Ramen Koji Ten,3.56,428,Kyoto,京都府京都市下京区烏丸通塩小路下ル東塩小路町901 京都駅ビル 10F 京都拉麺小路,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26030811/
+847,Imai Shokudou,3.56,418,Kitayama,京都府京都市北区上賀茂御薗口町2 上賀茂神社横,"Cafeteria, Bento (Lunch box), Japanese Cuisine",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26001221/
+848,Sarasa Nishijin,3.56,382,Kuramaguchi,京都府京都市北区紫野東藤ノ森町11-1 離楽庵WOODINN 1F,"Cafe, Cake, Curry","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260503/26000380/
+849,Kane shou,3.56,331,Gion Shijo,京都府京都市東山区大和大路通四条上ル2丁目常盤町155-2,Unagi (Eel),"JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260301/26000252/
+850,Ikeda ya Ichijoji Ten,3.56,325,Ichijoji,京都府京都市左京区高野玉岡町33-9,Ramen,～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26017677/
+851,ra-menoyaji,3.56,297,Hanazono,京都府京都市右京区花園木辻南町22,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260402/26001737/
+852,Higuchi Tei,3.56,290,Karasuma Oike,京都府京都市中京区瓦ノ町373 メイゾン東洞院,"Yoshoku (Japanese style western cuisine), Cafe, Bistro","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26025528/
+853,Seaburano Kami Fushimi Gouriki,3.56,287,Fushimi,京都府京都市伏見区深草柴田屋敷町23-27,"Ramen, Tsukemen, Abura soba mixed noodle",～JPY 999,"JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260601/26026186/
+854,Tonkatsu Ichiban,3.56,286,Umekoji Kyotonishi,京都府京都市下京区黒門通木津屋橋上る徹宝町403,"Tonkatsu (Pork cutlet), Yoshoku (Japanese style western cuisine), Izakaya (Tavern)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26002247/
+855,Santa Maria Novella Tisaneria Kyobashi Ten,3.56,263,Karasuma,京都府京都市中京区東洞院通錦小路下ル阪東屋町675,"Italian, Organic, Wine bar","JPY 4,000～JPY 4,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26002013/
+856,Kissa Madoragu Fuji Daimaru Ten,3.56,246,Kyoto Kawaramachi,京都府京都市下京区寺町通四条下ル貞安前之町605 藤井大丸 5F,"Traditional Café, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26034136/
+857,Tsuu en Uji Honten,3.56,246,Uji,京都府宇治市宇治東内1,"Sweets, Japanese sweets, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2607/A260701/26000727/
+858,ramen mugyu Karasumaru Takoyashiki Ten,3.56,244,Karasuma,京都府京都市中京区一蓮社町298-13,Ramen,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26031480/
+859,Ra-Men Yuu,3.56,229,Umekoji Kyotonishi,京都府京都市下京区七条大宮西入ル花畑町582,"Ramen, Dumplings","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26002233/
+860,neuf creperie,3.56,205,Marutamachi,京都府京都市中京区夷川通高倉西入ル山中町550-1,"Crepe,Galette, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260202/26026019/
+861,Miruku Koubou Sora,3.56,198,Kabutoyama,京都府京丹後市久美浜町神崎411,"Gelato,Ice cream",-,-,https://tabelog.com/en/kyoto/A2609/A260903/26005514/
+862,Kyouto Nama Shokora O Ganikku Thihausu,3.56,185,Higashiyama,京都府京都市左京区岡崎天王町76-15,"Cafe, Chocolate","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26003208/
+863,Papa Jon’S Imadegawa Honten,3.56,174,Imadegawa,京都府京都市上京区烏丸上立売東入ル相国寺門前町642-4 コーポマルス　１Ｆ,"Cake, Cafe, Pizza","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26001523/
+864,Rauk Hon Ten,3.56,170,Kyoto,京都府京都市下京区西洞院通七条上ル福本町422-2,"Bread, Sandwich, Bagel",-,-,https://tabelog.com/en/kyoto/A2601/A260101/26002626/
+865,Sentido,3.56,166,Karasuma Oike,京都府京都市中京区笹屋町445 日宝烏丸ビル1F,"Cafe, Bread","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26019446/
+866,Kew,3.56,141,Ryoanji,京都府京都市右京区竜安寺五反田町15,"Cafe, Donut","JPY 2,000～JPY 2,999",-,https://tabelog.com/en/kyoto/A2601/A260402/26032124/
+867,Heian Den Hon Ten,3.56,138,Higashiyama,京都府京都市東山区平安神宮道三条上ル堀池町373-10,"Japanese sweets, Sweets",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260301/26004587/
+868,Okashitsukasa Toujimochi,3.56,137,Toji,京都府京都市南区東寺東門前町88,Japanese sweets,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260604/26005892/
+869,honokon yamutya hoshimachi,3.56,131,Karasuma,京都府京都市中京区鯉山町532,"Chinese, Dim sum","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26033955/
+870,3TOKU 6MI Shijo Karasuma Ten,3.56,131,Karasuma,京都府京都市下京区綾小路通柳番場西入綾材木町188-5,"Stand Bar, Izakaya (Tavern), Oden",-,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26035503/
+871,Kagizen Yoshifusa Kodaiji Ten,3.56,129,Gion Shijo,京都府京都市東山区下河原通高台寺表門前上ル,"Sweets, Japanese sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26001349/
+872,Demachi Futaba Jei A Ru Kyoto Isetan,3.56,123,Kyoto,京都府京都市下京区烏丸通塩小路下ル東塩小路町 ジェイアール京都伊勢丹 B1F,Japanese sweets,～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260101/26023639/
+873,Designers Private rooms Niku Bar W,3.56,122,Gion Shijo,京都府京都市東山区常盤町165 みかくビル 1F,"Dining bar, Izakaya (Tavern), Steak",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26025341/
+874,panscape Sanjo Honten,3.56,112,Nijojo Mae,京都府京都市中京区今新在家西町19,Bread,-,-,https://tabelog.com/en/kyoto/A2601/A260203/26014883/
+875,FRIANDISE Karasuma Ten,3.56,107,Marutamachi,京都府京都市中京区少将井御旅町335-2,"Bread, Sandwich, Bagel",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26015769/
+876,Unagi Issei,3.56,106,Kami Katsura,京都府京都市西京区松尾木ノ曽町59 ウィズワンビル２Ｆ,"Unagi (Eel), Dojo (Loach)","JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260403/26005023/
+877,Trattoria Giovano,3.56,103,Yase Hieizanguchi,京都府京都市左京区八瀬野瀬町74-1 エクシブ京都八瀬離宮,Italian,"JPY 4,000～JPY 4,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260502/26006436/
+878,THE BREAD,3.56,101,Karasuma Oike,京都府京都市中京区東洞院通三条下る三文字町220 京都八百一本館 1F,"Bread, Sandwich",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26022247/
+879,Honmaguro to Sosaku Washoku Ginjo Kuraudo Marutacho Ten,3.56,99,Marutamachi,京都府京都市中京区鏡屋町50-2,"Izakaya (Tavern), Seafood, Nihonshu (Japanese sake)","JPY 1,000～JPY 1,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260202/26032229/
+880,Bakery uki,3.56,97,Jingu Marutamachi,京都府京都市上京区俵屋町455-6,"Bread, Sandwich",-,-,https://tabelog.com/en/kyoto/A2601/A260302/26033779/
+881,Alsace,3.56,97,Ichijoji,京都府京都市左京区一乗寺西閉川原29-9,"French, Wine bar",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260303/26000294/
+882,favorite,3.56,95,Shijo,京都府京都市下京区妙伝寺町705 CASA VERDE 西洞院 1F,Cake,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26009038/
+883,Sakana To Osake Gotoshi,3.56,95,Karasuma Oike,京都府京都市中京区高倉通二条下ル瓦町543-1 ＥＤＵ高倉　１Ｆ,"Japanese Cuisine, Seafood",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26006752/
+884,Shao shao,3.56,92,Shichijo,京都府京都市東山区本町8-89-1,"Chinese, Creative","JPY 1,000～JPY 1,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260304/26038680/
+885,Kameyama Manabu,3.56,92,Karasuma,京都府京都市中京区蛸薬師室町西入る姥柳町192,"Izakaya (Tavern), Japanese Cuisine, Sushi",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260202/26029063/
+886,Mou yan,3.56,86,Karasuma Oike,京都府京都市中京区西押小路町110-3,"Soba (Buckwheat noodles), Creative","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260202/26000362/
+887,Kyou To Re Toro Youshoku Rokavo,3.56,81,Fushimi,京都府京都市伏見区舞台町5-1 マンション中川1階,"Hamburger steak, Steak, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260601/26026539/
+888,Gion Sushi Taku,3.56,80,Gion Shijo,京都府京都市東山区清本町352 SAKIZO花見小路ビル 1F,"Sushi, Seafood, Unagi (Eel)",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26040681/
+889,Sushi Kawano,3.56,77,Kitaoji,京都府京都市左京区下鴨東半木町72-8,"Sushi, Seafood, Japanese Cuisine","JPY 6,000～JPY 7,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260503/26025254/
+890,KIZANO,3.56,76,Gojo,京都府京都市下京区不明門通下珠数屋町上ル卓屋町66-1 1F,"Creative, French","JPY 3,000～JPY 3,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260101/26015691/
+891,Hakuraku Ka Jou Sai,3.56,76,Kitano Hakubaicho,京都府京都市北区北野西白梅町85-2,Chinese,～JPY 999,"JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260501/26017181/
+892,HUNTER,3.56,72,Marutamachi,京都府京都市中京区東洞院通夷川下ル壺屋町533-2,Bistro,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26028917/
+893,Chiran,3.56,56,Kuramaguchi,京都府京都市北区紫野下築山町54-3,"Yakiniku (BBQ Beef), Korean",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260503/26001668/
+894,Antibes,3.56,44,Kyoto Kawaramachi,京都府京都市下京区桝屋町460 河道屋倖松庵ビル 1F,"European, Baru (Spanish style bar), Italian",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26013834/
+895,Sushi Dokoro Ima,3.56,43,Katsura,京都府京都市西京区桂朝日町111,"Sushi, Seafood, Japanese Cuisine",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260401/26023451/
+896,Kappou Iimori,3.56,41,Gion Shijo,京都府京都市東山区祇園町北側347-100,"Japanese Cuisine, Seafood","JPY 4,000～JPY 4,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260301/26000273/
+897,youshoku saishu anpuryusu,3.56,40,Shijo Omiya,京都府京都市中京区壬生賀陽御所町64-18 マキシムⅢ 1F,"Yoshoku (Japanese style western cuisine), French, Bistro","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260203/26029636/
+898,Kohaku,3.56,36,Gion Shijo,京都府京都市東山区高台寺桝屋町360 パークハイアット京都 4F,Bar,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26033529/
+899,some body,3.56,34,Jingu Marutamachi,京都府京都市上京区駒之町548-1,Izakaya (Tavern),"JPY 3,000～JPY 3,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26038555/
+900,Kyoryori Haku,3.56,33,Sanjo,京都府京都市中京区木屋町通り三条上ル上大阪町528-3,"Japanese Cuisine, Sukiyaki","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260202/26030697/
+901,Morikawa,3.56,26,Kitayama,京都府京都市北区上賀茂池端町23-2,"Sushi, Japanese Cuisine","JPY 10,000～JPY 14,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260503/26000369/
+902,Italian Shokudo 910,3.56,25,Kyoto Kawaramachi,京都府京都市中京区河原町通三条下ル南車屋町282 モリタビル 4F チルコロ京都,"Italian, Baru (Spanish style bar), Vegetable dishes",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26029250/
+903,MUNI ALAIN DUCASSE,3.56,20,Arashiyama,京都府京都市右京区嵯峨天龍寺芒ノ馬場町3 MUNI KYOTO B1F,French,-,"JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260403/26034865/
+904,Sushi Yoshida,3.56,20,Gion Shijo,京都府京都市東山区祇園町南側570-179,"Sushi, Japanese Cuisine","JPY 10,000～JPY 14,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260201/26024841/
+905,INODA COFFEE Hon Ten,3.55,1685,Karasuma Oike,京都府京都市中京区堺町通三条下ル道祐町140,"Traditional Café, Cake, Yoshoku (Japanese style western cuisine)","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260202/26000412/
+906,zezeka mpo cchiri,3.55,619,Karasuma,京都府京都市中京区天神山町283-2,"Chinese, Bar","JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260202/26001011/
+907,Omen Ginkakuji Honten,3.55,472,Mototanaka,京都府京都市左京区浄土寺石橋町74,"Udon (Wheat noodles), Japanese Cuisine","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260302/26001803/
+908,Menshou Takamatsu Shijo Ten,3.55,419,Karasuma,京都府京都市下京区東洞院四条下がる元悪王子町39-2,"Ramen, Tsukemen, Noodles",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260101/26028047/
+909,Tampopo,3.55,381,Kitaoji,京都府京都市北区紫野西蓮台野町57 ＵＫハイム　１Ｆ,"Ramen, Tsukemen","JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260501/26001890/
+910,Tsuru kame Hon Ten,3.55,360,Kyoto Kawaramachi,京都府京都市中京区寺町通四条上ル中之町559 菊水ビル　１Ｆ,"Tsukemen, Ramen","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26014352/
+911,Sa To Masu Riputon Poruta Ten,3.55,321,Kyoto,京都府京都市下京区東塩小路町902 京都駅前地下街ポルタ,"Cafe, Yoshoku (Japanese style western cuisine), Cake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26007274/
+912,Masugataya,3.55,314,Demachiyanagi,京都府京都市上京区桝形通出町西入ル二神町179,"Cafeteria, Sushi, Udon (Wheat noodles)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260302/26002790/
+913,Chuugokuryouri Saikai,3.55,313,Fujinomori,京都府京都市伏見区深草キトロ町33-7,"Chinese, Champon noodle soup, Dumplings",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260601/26002432/
+914,Yuuki Gion Ten,3.55,306,Gion Shijo,京都府京都市東山区富永町111-1,"Izakaya (Tavern), Seafood",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26015626/
+915,Mo an,3.55,295,Mototanaka,京都府京都市左京区吉田神楽岡町8 吉田山山頂,Cafe,-,-,https://tabelog.com/en/kyoto/A2601/A260302/26001082/
+916,Rondon ya,3.55,261,Kyoto Kawaramachi,京都府京都市中京区新京極通四条上ル中之町565,"Japanese sweets, Taiyaki & Oobanyaki (pastry with sweet red beans)",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26007251/
+917,saryou itouken,3.55,260,JR Fujinomori,京都府京都市伏見区深草谷口町28-1,"Japanese sweets, Cafe, Cake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260601/26025768/
+918,Kik kouya,3.55,260,Karasuma Oike,京都府京都市中京区高倉通御池下ル亀甲屋町601,"Japanese Cuisine, Tofu dishes",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260202/26003318/
+919,Ristorante Misato,3.55,258,Gojo,京都府京都市下京区堺町通松原下ル鍛冶屋町246-2,Italian,"JPY 3,000～JPY 3,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26002665/
+920,Okaffe kyoto,3.55,250,Shijo,京都府京都市下京区綾小路通東洞院東入神明町235-2,Cafe,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260201/26028240/
+921,Manten Kyoudai,3.55,245,Toji,京都府京都市南区東九条西山町25-4,"Ramen, Dandan noodles, Tsukemen",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260604/26020828/
+922,Yakiniku Dining Kinoe Kyoto Oshoji Honten,3.55,208,Kyoto Shiyakusho Mae,京都府京都市中京区等持寺町34-1 ペペ御所南 1F,"Yakiniku (BBQ Beef), Niku baru (Meat bar), Izakaya (Tavern)",-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260203/26021205/
+923,Patisserie Nature Shiromoto Kinmeidai Ten,3.55,180,Matsuiyamate,京都府八幡市欽明台北4,"Cake, Cafe, Pancake","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2607/A260703/26016879/
+924,Aitsu No Ra-Men Kata Guruma Kitano Shiraume Cho Ten,3.55,180,Kitano Hakubaicho,京都府京都市北区北野上白梅町24 ジュノー雅 1F,"Ramen, Tsukemen, Kara-age (Deep-fried chicken)",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260501/26031788/
+925,Pathisuri Karan,3.55,179,Kitaoji,京都府京都市北区西賀茂坊ノ後町15,Cake,-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26004040/
+926,Yoko chou,3.55,177,Sanjo Keihan,京都府京都市左京区二条通川端東入ル難波町210,"Izakaya (Tavern), Seafood",-,"JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26006085/
+927,Amazon,3.55,174,Shichijo,京都府京都市東山区鞘町通七条上る下堀詰町235,"Cafe, Sweets",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260304/26011929/
+928,RAU,3.55,168,Kyoto Kawaramachi,京都府京都市下京区河原町通四条下る2丁目稲荷町318-6 GOOD NATURE STATION 3F,"Cafe, Cake, Chocolate","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26033525/
+929,Iduu Kyoto Daimaru Ten,3.55,165,Karasuma,京都府京都市下京区四条通高倉西入ル立売西町79 大丸京都店 B1F,Sushi,"JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260201/26002716/
+930,Tachinomi Yami,3.55,157,Shijo,京都府京都市中京区西錦小路町262-8,Stand Bar,"JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26039365/
+931,Mushiyashi nai,3.55,155,Ichijoji,京都府京都市左京区一乗寺里ノ西町78,"Cake, Cafe","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260303/26003357/
+932,Yamamoto,3.55,149,Saga Torokko Station,京都府京都市右京区嵯峨天龍寺瀬戸川町9-7,"Traditional Café, Cafe","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260403/26002143/
+933,Juunidan ya Hanamikoji Ten,3.55,146,Gion Shijo,京都府京都市東山区祇園町南側570-240,"Shabu shabu (Japanese hotpot), Hot Pot, Ten-don (Tempura bowl)","JPY 3,000～JPY 3,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26001352/
+934,Chuugoku Ryouri Touri,3.55,144,Kyoto Shiyakusho Mae,京都府京都市中京区河原町御池 ホテルオークラ京都 B1F,"Chinese, Dim sum","JPY 8,000～JPY 9,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26001497/
+935,Tsukigase Sakaimachiten,3.55,139,Karasuma Oike,京都府京都市中京区堺町通御池下ル丸木材木町675 アーバンライフフォルムズ烏丸御池103,"Sweets, Cafe, Shaved ice (snow cone)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260202/26006541/
+936,BENOIT Kyoto,3.55,138,Gion Shijo,京都府京都市東山区清水2-204-2 The Hotel Seiryu Kyoto Kiyomizu,"Bistro, French","JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26034036/
+937,Kichi Kichi,3.55,133,Sanjo,京都府京都市中京区三条先斗町下ル材木町185-4,Yoshoku (Japanese style western cuisine),"JPY 2,000～JPY 2,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260301/26000226/
+938,Antica Pizzeria L`ASINELLO,3.55,132,Uji,京都府宇治市宇治妙楽41 大阪屋マーケット,Pizza,"JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2607/A260701/26033397/
+939,Yourouken,3.55,126,Sai,京都府京都市中京区四条通西大路東入ル南側,Japanese sweets,～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260401/26005950/
+940,Hanarai,3.55,122,Nagaokakyo,京都府長岡京市神足芝本18-4,"Udon (Wheat noodles), Izakaya (Tavern), Motsu Nabe (Offel Hot Pot)","JPY 1,000～JPY 1,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2607/A260702/26022656/
+941,Sakagura Ba En,3.55,117,Fushimi Momoyama,京都府京都市伏見区今町672-1,"Nihonshu (Japanese sake), Bar","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260601/26007340/
+942,Saiseki Chimoto,3.55,113,Gion Shijo,京都府京都市下京区西石垣通四条下ル斉藤町140-5,Japanese Cuisine,"JPY 3,000～JPY 3,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26000760/
+943,Ekyu baransu,3.55,112,Chayama Kyoto Geijutsudaigaku,京都府京都市左京区北白川山田町4-1,"Cake, Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260302/26002186/
+944,Saboten,3.55,110,Umahori,京都府亀岡市篠町見晴5-20-8,"Bistro, Steak, European","JPY 1,000～JPY 1,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2608/A260801/26004861/
+945,M iso STAND,3.55,99,Karasuma Oike,京都府京都市中京区烏帽子屋町477,Izakaya (Tavern),-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260202/26034521/
+946,Pontochou Masuda,3.55,95,Gion Shijo,京都府京都市中京区先斗町四条上ル下樵木町202,"Japanese Cuisine, Izakaya (Tavern)",-,"JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260201/26000698/
+947,WITTE DE WITH,3.55,92,Uji,京都府宇治市宇治妙楽17-8 中宇治yorin 1F,"Bistro, European","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2607/A260701/26029616/
+948,i Pura Vida !,3.55,91,Katsura,京都府京都市西京区川島権田町10-10,"Bread, Bagel",-,-,https://tabelog.com/en/kyoto/A2601/A260401/26020188/
+949,Pontocho Fujita,3.55,86,Sanjo,京都府京都市中京区先斗町通三条下る材木町179-2,Japanese Cuisine,"JPY 4,000～JPY 4,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26002672/
+950,Tom Sawyer,3.55,85,Kuramaguchi,京都府京都市北区紫野南舟岡町72-17,"Bread, Sandwich",-,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260503/26005956/
+951,Ippin Sakai,3.55,84,Karasuma,京都府京都市中京区蛸薬師通高倉西入る泉正寺町323 松本ビル 101,Japanese Cuisine,"JPY 2,000～JPY 2,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26034508/
+952,Agotsuyu Shabushabu Yamafuku,3.55,80,Sanjo,京都府京都市中京区木屋町通三条下る材木町187,"Shabu shabu (Japanese hotpot), Pork shabu shabu, Izakaya (Tavern)",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260301/26019742/
+953,koubou resutoran wakuden mori,3.55,73,Kabutoyama,京都府京丹後市久美浜町谷764 和久傳の森,"Restaurants, Cafe, Japanese sweets","JPY 4,000～JPY 4,999",-,https://tabelog.com/en/kyoto/A2609/A260903/26029454/
+954,Sel D'or,3.55,71,Takanohara,京都府相楽郡精華町桜ヶ丘3-26-6,French,"JPY 4,000～JPY 4,999","JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2607/A260705/26006388/
+955,HANA,3.55,67,Demachiyanagi,京都府京都市上京区河原町通今出川上ル青龍町234-3 田辺ビル　２～４Ｆ,"Bistro, Dining bar, French",-,"JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260302/26001866/
+956,OFURO,3.55,66,Karasuma Oike,京都府京都市中京区道祐町135-1 三条食彩ろぉじ,Izakaya (Tavern),"JPY 2,000～JPY 2,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260202/26037379/
+957,AND Bread kitayama,3.55,62,Kitayama,京都府京都市北区上賀茂高縄手町88-3,Bread,-,-,https://tabelog.com/en/kyoto/A2601/A260503/26030586/
+958,La famille Morinaga,3.55,60,Karasuma,京都府中京区蛸薬師通新町西入不動町175-5,French,"JPY 6,000～JPY 7,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260201/26022098/
+959,Hirayama,3.55,59,Chiyokawa,京都府亀岡市千代川町高野林西田6-1,"Yakiniku (BBQ Beef), Other","JPY 1,000～JPY 1,999","JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2608/A260801/26013389/
+960,Gion Tsubaki,3.55,54,Gion Shijo,京都府京都市東山区祇園町南側570-148,"Japanese Cuisine, Seafood, Meat dishes","JPY 2,000～JPY 2,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26027450/
+961,Gyuu Hou,3.55,49,Ichijoji,京都府京都市左京区一条寺赤ノ宮町22-4,"Kushiyaki, Beef dishes, Creative",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260303/26000720/
+962,Hoshinoya Kyou To Dainingu,3.55,48,Arashiyama Torokko Station,京都府京都市西京区嵐山元録山町11-2 星のや京都,Japanese Cuisine,-,"JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260403/26025564/
+963,Saiin Yakiniku YUU,3.55,47,Saiin,京都府京都市右京区西院西三蔵町24-1,"Yakiniku (BBQ Beef), Horumon (BBQ Offel), Izakaya (Tavern)","JPY 1,000～JPY 1,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260401/26038326/
+964,Miyagawacho Saka,3.55,47,Gion Shijo,京都府京都市東山区宮川筋4丁目319-1-5,"Italian, French, Pasta","JPY 15,000～JPY 19,999","JPY 20,000～JPY 29,999",https://tabelog.com/en/kyoto/A2601/A260301/26007250/
+965,Roji To No Moto,3.55,46,Kiyomizu Gojo,京都府京都市東山区松原上ル宮川筋5-325-1,"Sushi, Japanese Cuisine, Seafood","JPY 3,000～JPY 3,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26029760/
+966,Sumiya Ryokan,3.55,45,Kyoto Shiyakusho Mae,京都府京都市中京区麩屋町通三条下ル白壁町,"Ryokan, Japanese Cuisine",-,"JPY 60,000～JPY 79,999",https://tabelog.com/en/kyoto/A2601/A260202/26002263/
+967,Miyagawa Tonemon,3.55,42,Kiyomizu Gojo,京都府京都市東山区新宮川町通松原下ル西御門町440-10,Tonkatsu (Pork cutlet),"JPY 2,000～JPY 2,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260201/26039226/
+968,motsunabe rikoh,3.55,34,Sanjo,京都府京都市中京区山崎町236-5,"Motsu Nabe (Offel Hot Pot), Yakiniku (BBQ Beef), Izakaya (Tavern)",-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26034773/
+969,Ebisugawa Sushi Suzuka,3.55,33,Marutamachi,京都府京都市中京区俵屋町305 FORUM夷川 1F,Sushi,-,"JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260202/26028442/
+970,ortensia,3.55,32,Jingu Marutamachi,京都府京都市上京区河原町丸太町上ル出水町274,Italian,"JPY 4,000～JPY 4,999","JPY 8,000～JPY 9,999",https://tabelog.com/en/kyoto/A2601/A260302/26033104/
+971,Kyoyasai to Sumibi Ryori Ihoto,3.55,32,Keage,京都府京都市左京区南禅寺草川町41,Japanese Cuisine,"JPY 4,000～JPY 4,999",-,https://tabelog.com/en/kyoto/A2601/A260301/26035499/
+972,Yu La La,3.55,29,Shijo,京都府京都市下京区万里小路町163 エトワール四条 1F,"Southeast Asian cuisine , Cafe, Asian Cuisine, Ethnic Cuisine",-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26026402/
+973,Rosutobifu No Mise Watanabe,3.55,29,Kyoto Seikadai Mae,京都府京都市北区上賀茂本山100-1,"French, Steak, Beef dishes","JPY 10,000～JPY 14,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260503/26035627/
+974,Hiiragiya Bekkan,3.55,28,Kyoto Shiyakusho Mae,京都府京都市中京区御幸町二条下ル山本町431,"Ryokan, Japanese Cuisine",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260201/26000454/
+975,bistro Chic,3.55,27,Kitaoji,京都府京都市北区紫竹西高縄町10-1,"French, Creative","JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260503/26030101/
+976,Kuzushi Niku Kappou Rai,3.55,27,Gion Shijo,京都府京都市東山区常盤町165 みかくビル 1F,"Izakaya (Tavern), Dining bar, Steak","JPY 1,000～JPY 1,999","JPY 3,000～JPY 3,999",https://tabelog.com/en/kyoto/A2601/A260301/26030572/
+977,Gion Daiki,3.55,26,Gion Shijo,京都府京都市東山区清本町374-4,"Japanese Cuisine, Sushi, Hot Pot","JPY 5,000～JPY 5,999","JPY 10,000～JPY 14,999",https://tabelog.com/en/kyoto/A2601/A260301/26030807/
+978,Para Koyaji,3.55,24,Kiyomizu Gojo,京都府京都市中京区柳馬場通松原下ル忠庵町299-5,Italian,-,"JPY 4,000～JPY 4,999",https://tabelog.com/en/kyoto/A2601/A260201/26040358/
+979,Hanase Soba Kachikuan,3.55,24,-,京都府京都市左京区花脊別所町69,                            Soba (Buckwheat noodles)                          ,"JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260504/26003258/
+980,Dempachi,3.55,23,Kitayama,京都府京都市北区上賀茂薮田町57-3,"Fugu (Pufferfish), Japanese Cuisine, Hot Pot",-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260503/26000363/
+981,Sushi To Sake Kotohogi,3.55,20,Omiya,京都府京都市中京区藤岡町506,Sushi,-,"JPY 6,000～JPY 7,999",https://tabelog.com/en/kyoto/A2601/A260203/26039320/
+982,Monjusou Shouro Tei,3.55,19,Amanohashidate,京都府宮津市天橋立文殊堂畔,"Ryokan, Japanese Cuisine",-,-,https://tabelog.com/en/kyoto/A2609/A260901/26004171/
+983,Ryou Kawashima,3.55,17,Karasuma Oike,京都府京都市中京区車屋町通御池上ル塗師屋町333-2,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260202/26038522/
+984,Kappou Shinatomi,3.55,14,Jingu Marutamachi,京都府京都市上京区信富町315-4,Japanese Cuisine,-,"JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260302/26035813/
+985,Gion Asadaya,3.55,13,Sanjo Keihan,京都府京都市東山区新門前通花見小路東入る中之町247,"Japanese Cuisine, Seafood","JPY 10,000～JPY 14,999","JPY 15,000～JPY 19,999",https://tabelog.com/en/kyoto/A2601/A260301/26025089/
+986,Sushi Ooga Higashiyama,3.55,9,Shichijo,京都府京都市東山区馬町通妙法院北門前妙法院側町431 シックスセンシズ京都 B2F,Sushi,"JPY 40,000～JPY 49,999","JPY 40,000～JPY 49,999",https://tabelog.com/en/kyoto/A2601/A260301/26041138/
+987,Saryou Tsujiri Kyoto Isetan Ten,3.54,741,Kyoto,京都府京都市下京区烏丸通塩小路下る東塩小路町901 ジェイアール京都伊勢丹 6F,"Sweets, Cafe, Shaved ice (snow cone)","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260101/26000853/
+988,eX cafe Kyoto Arashiyama Honten,3.54,558,Arashiyama,京都府京都市右京区嵯峨天龍寺造路町35-3,"Cafe, Sweets","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260403/26005251/
+989,Nishijin Toriiwarou,3.54,489,Imadegawa,京都府京都市上京区五辻通智恵光院西入ル五辻町75,"Mizutaki, Chicken dishes, Oyako-don (Chicken and egg bowl)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260501/26001030/
+990,mumokuteki cafe,3.54,449,Kyoto Kawaramachi,京都府京都市中京区御幸町通六角下ル伊勢屋町351 ヒューマンフォーラムビル　２Ｆ,"Cafe, Yoshoku (Japanese style western cuisine), Cake","JPY 1,000～JPY 1,999","JPY 1,000～JPY 1,999",https://tabelog.com/en/kyoto/A2601/A260201/26005726/
+991,Daitokuji saikiya,3.54,411,Kitaoji,京都府京都市北区紫野上門前町76,"Japanese Cuisine, Bento (Lunch box), Sushi","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260503/26001930/
+992,Toyouke Chaya,3.54,399,Kitano Hakubaicho,京都府京都市上京区今出川通御前西入ル紙屋川町822,"Tofu dishes, Donburi (Rice bowl)","JPY 1,000～JPY 1,999",-,https://tabelog.com/en/kyoto/A2601/A260501/26001508/
+993,Chin yuu Ichijojihonten,3.54,358,Ichijoji,京都府京都市左京区一乗寺払殿町24,Ramen,"JPY 1,000～JPY 1,999",～JPY 999,https://tabelog.com/en/kyoto/A2601/A260303/26000717/
+994,Fumiya,3.54,311,Karasuma,京都府京都市中京区錦小路堺町上ル菊屋町519,"Udon (Wheat noodles), Sweets, Cafe",～JPY 999,～JPY 999,https://tabelog.com/en/kyoto/A2601/A260201/26017337/
+995,Sheimei Hoxa Saikon Tan,3.54,291,Karasuma,京都府京都市中京区柳馬場通蛸薬師上ル井筒屋町417,"Chinese, Fire Pot, Hot Pot","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260202/26002647/
+996,Teuchi Udon Kendonya,3.54,274,Fushimi Inari,京都府京都市伏見区深草一ノ坪町41 パールハイツイナリ１Ｆ,"Udon (Wheat noodles), Donburi (Rice bowl), Curry Udon",～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260601/26003538/
+997,Walden Woods Kyoto,3.54,268,Gojo,京都府京都市下京区栄町508-1,Cafe,～JPY 999,-,https://tabelog.com/en/kyoto/A2601/A260101/26030010/
+998,TRATTORIA LEONE,3.54,255,Shijo,京都府京都市下京区高辻通室町西入ル繁昌町295-1 京都1号館ビル 1F,"Italian, Pasta, Dining bar","JPY 1,000～JPY 1,999","JPY 5,000～JPY 5,999",https://tabelog.com/en/kyoto/A2601/A260201/26005705/
+999,Guriru Ninjin,3.54,252,Ichijoji,京都府京都市左京区一乗寺出口町51-2,"Yoshoku (Japanese style western cuisine), Hamburger steak, Curry","JPY 2,000～JPY 2,999","JPY 2,000～JPY 2,999",https://tabelog.com/en/kyoto/A2601/A260303/26000003/
